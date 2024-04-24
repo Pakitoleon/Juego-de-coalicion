@@ -1,0 +1,809 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Roman;\f1\froman\fcharset0 Times-Italic;\f2\froman\fcharset0 Times-Bold;
+\f3\fswiss\fcharset0 ArialMT;\f4\fnil\fcharset0 Menlo-Regular;\f5\fswiss\fcharset0 Helvetica;
+\f6\fswiss\fcharset0 Helvetica-Bold;\f7\froman\fcharset0 TimesNewRomanPSMT;\f8\froman\fcharset0 TimesNewRomanPS-BoldMT;
+}
+{\colortbl;\red255\green255\blue255;\red60\green64\blue68;\red255\green255\blue255;\red185\green188\blue186;
+\red23\green23\blue23;\red0\green0\blue0;\red51\green51\blue51;\red33\green33\blue33;\red0\green0\blue0;
+\red255\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c30196\c31765\c33725;\cssrgb\c100000\c100000\c100000;\cssrgb\c77255\c78431\c77647;
+\cssrgb\c11765\c11765\c11765;\cssrgb\c0\c0\c0;\csgenericrgb\c20000\c20000\c20000;\csgenericrgb\c12941\c12941\c12941;\csgenericrgb\c0\c0\c0;
+\csgenericrgb\c100000\c0\c0;}
+{\info
+{\author pakito gonzalez}}\margl1134\margr1134\margb1134\margt1134\vieww17760\viewh21860\viewkind0
+\deftab720
+\pard\pardeftab720\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 			\
+\
+\
+\
+\
+\pard\pardeftab720\li432\pardirnatural\partightenfactor0
+\cf0 \
+\pard\pardeftab720\pardirnatural\partightenfactor0
+\cf0 			
+\fs50 Dungeons & Dragons\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+
+\fs41 \cf0 					42 challenge\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\pard\pardeftab720\li758\ri1151\sa13\pardirnatural\qc\partightenfactor0
+\cf0 \
+\pard\pardeftab720\li758\ri1151\sa13\pardirnatural\qc\partightenfactor0
+
+\f1\i\fs24 \cf0 Resumen:\
+\pard\pardeftab720\li758\ri1067\sa248\pardirnatural\qc\partightenfactor0
+\cf0 Lucha contra tus enemigos y consigue rescatar a Joaqu\'edn.\
+\
+\
+\pard\pardeftab720\sa160\pardirnatural\partightenfactor0
+
+\f2\i0\b\fs50 \cf0 \'cdndice general\
+\pard\pardeftab720\sa160\pardirnatural\partightenfactor0
+
+\fs26 \cf0 	Introducci\'f3n 
+\f0\b0 \'85....................................................................................................\
+	
+\f2\b Instrucciones generales 
+\f0\b0 \'85...................................................................................\
+	
+\f2\b Como jugar 
+\f0\b0 \'85......................................................................................................\
+	
+\f2\b Objetos
+\f0\b0  \'85..............................................................................................................\
+	
+\f2\b Pruebas 
+\f0\b0 \'85.............................................................................................................\
+	
+\f2\b Monstruos
+\f0\b0  \'85.........................................................................................................\
+	Mapa \'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85..\
+	
+\f2\b Historia \'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85.\
+\
+
+\f0\b0 	\
+	\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\pard\pardeftab720\sa343\pardirnatural\partightenfactor0
+
+\f2\b\fs50 \cf0 			Cap\'edtulo I\
+\pard\pardeftab720\sa432\pardirnatural\partightenfactor0
+
+\f0\b0\fs24 \cf0 Introducci\'f3n\
+\pard\pardeftab720\sa160\pardirnatural\partightenfactor0
+
+\fs26 \cf0  	Para esta experiencia intra coalici\'f3n vamos a desarrollar un juego basado en Dungeons & Dragons personaliz\'e1ndolo a la comunidad 42. El objetivo es que los componentes del equipo se conozcan m\'e1s y mejor, compartiendo experiencias l\'fadicas que ayuden a mejorar la convivencia y el Peer2Peer.\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\pard\pardeftab720\sa343\pardirnatural\partightenfactor0
+
+\f2\b\fs50 \cf0 				Cap\'edtulo II\
+\pard\pardeftab720\sa462\pardirnatural\partightenfactor0
+
+\f0\b0\fs24 \cf0 Instrucciones generales\
+\pard\pardeftab720\li10\ri304\sa160\pardirnatural\partightenfactor0
+
+\fs26 \cf0 	 	Se jugar\'e1 en un tablero (mapa de 42 personalizado), con un punto de SALIDA y otro al que hay que llegar, avanzando, abriendo puertas, descubriendo puertas ocultas, cajones secretos y cofres eliminando monstruos hasta llegar al punto DESTINO donde libraremos una batalla \'e9pica y  liberaremos a un miembro del staff (en la aventura final a Joaqu\'edn).\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\pard\pardeftab720\li10\ri304\sa160\pardirnatural\partightenfactor0
+
+\f2\b\fs50 \cf0 					Cap\'edtulo III\
+\pard\pardeftab720\sa432\pardirnatural\partightenfactor0
+
+\f0\b0\fs24 \cf0 Como jugar\
+\pard\pardeftab720\li720\ri304\pardirnatural\partightenfactor0
+\cf0 	\'95	Se formaran grupos de 3 \'96 5 jugadores equilibrados en categor\'edas (programador, astucia\'94 inteligencia, habilidad\'94,  ciberseguridad,  portavoz del grupo.\
+	\'95	Hacer la ficha de grupo de juego.\
+	\'95	Se contara la historia y pondr\'e1 en situaci\'f3n a los jugadores explicando el entorno en el que se encuentran y parte de lo ocurrido.\
+	\'95	Tendr\'e1n que descubrir el funcionamiento de las puertas (ver apartado pruebas /yincana). \
+	\'95	Avanzar por el mapa se realizara tirando los dados de suerte (2 D8) para descubrir la prueba que hay que resolver antes de moverse por el mapa ( de 1 a 8 prueba f\'e1cil, de 9 a 16 prueba dif\'edcil) las pruebas se realizaran en grupo (ver apartado pruebas / movimientos).\
+	\'95	Al avanzar por el mapa puede encontrarse un monstruo aleatorio (ver apartado monstruos /aleatorios).\
+	\'95	Puertas ocultas, deber\'e1n de descubrir c\'f3mo se abre (ver apartado pruebas /ciberseguridad)\
+\pard\pardeftab720\li336\ri304\sa160\pardirnatural\partightenfactor0
+\cf0 \
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\pard\pardeftab720\sa343\pardirnatural\partightenfactor0
+
+\f2\b\fs50 \cf0 					Cap\'edtulo IV\
+\pard\pardeftab720\sa432\pardirnatural\partightenfactor0
+
+\f0\b0\fs24 \cf0 Objetos\
+\pard\pardeftab720\li720\ri833\sa281\pardirnatural\partightenfactor0
+
+\f2\b \cf0 	\'95	Puertas\
+\pard\pardeftab720\li579\ri833\sa281\pardirnatural\partightenfactor0
+
+\f0\b0 \cf0 -	Para realizar la apertura de puertas deber\'e1n encontrar el reto yincana ( ver apartado pruebas, tantas pruebas como puertas en el mapa) para conseguir la clave que abra la puerta. \
+\pard\pardeftab720\li720\ri833\sa281\pardirnatural\partightenfactor0
+
+\f2\b \cf0 	\'95	Puertas Ocultas\
+\pard\pardeftab720\li579\ri833\sa281\pardirnatural\partightenfactor0
+
+\f0\b0 \cf0 -	Primero deber\'e1n de encontrar las puertas ocultas(depende del mapa).\
+-	Segundo deber\'e1n superar la prueba para conseguir el c\'f3digo (ver apartado ciberseguridad).\
+\pard\pardeftab720\li720\ri833\sa281\pardirnatural\partightenfactor0
+
+\f2\b \cf0 	\'95	Cajones\
+\pard\pardeftab720\li579\ri833\sa281\pardirnatural\partightenfactor0
+
+\f0\b0 \cf0 -	Siempre habr\'e1 el mismo n\'famero de cajones que de grupo de jugadores\
+-	Primero deber\'e1n encontrar los cajones.\
+-	Segundo deber\'e1n conseguir el c\'f3digo (ver apartado de ciberseguridad)\
+-	Recompensa ser\'e1 siempre la misma una ficha de -3 para la tirada de suerte al enfrentarse al mounstro final.\
+\pard\pardeftab720\li720\ri833\sa281\pardirnatural\partightenfactor0
+
+\f2\b \cf0 	\'95	Cofres\
+\pard\pardeftab720\li579\ri833\sa281\pardirnatural\partightenfactor0
+
+\f0\b0 \cf0 -	Primero deber\'e1n encontrar los cofres ocultos por el mapa( la mitad de cofres que de cajones).\
+-	Segundo deber\'e1n conseguir el c\'f3digo (ver apartado de ciberseguridad).\
+-	Recompensa (ver apartado objetos maravilloso).                                                                \
+\pard\pardeftab720\li579\ri833\sa281\pardirnatural\partightenfactor0
+
+\f2\b \cf0  \
+\
+\
+\
+\
+\
+\pard\pardeftab720\li2880\ri833\sa281\pardirnatural\partightenfactor0
+\cf0 	\'95	Objetos maravillosos\
+\pard\pardeftab720\li579\ri833\sa281\pardirnatural\partightenfactor0
+\cf0 -	
+\f0\b0 Tirar los dados para ver suerte (1D8), todos son de un solo uso.\
+-	De 0 a 4\
+ 	-	Anillo de calor: Mientras llevas puesto este anillo, tienes resistencia al da\'f1o por frio.\
+ 	-	Abanico de Viento: Mientras sujetas el abanico puedes lanzar el conjuro R\'e1faga de viento (congela al objetivo un turno).\
+ 	-	Amuleto contra detecci\'f3n: Te da invisibilidad durante un turno.\
+ 	-	 Anillo Mental: Mientras lo llevas puesto puedes leer la mente en respuesta a una pregunta del Dungeon Master.\
+- 	De 5 a 8\
+ 	-	 Amuleto de los planos: Da la posibilidad de conocer la localizaci\'f3n de cofre en caso de que haya.\
+ 	-	Bolsa de habichuelas: dentro de la bolsa hay habichuelas m\'e1gicas, al vaciar la bolsa en el suelo destruye al objetivo que haya alrededor.\
+ 	-	Capa Ar\'e1cnida: inmoviliza a un objetivo durante dos turnos.\
+ 	-	Cuerda de Enga\'f1ar: el objetivo hace lo contrario de lo que dice durante dos turno.\
+\
+\
+\
+\
+\
+\
+\
+\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+\cf0 Pruebas\
+\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+
+\f2\b \cf0 Gincanas\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+
+\f0\b0 \cf0 Encuentra la llave para abrir la puerta de 42.\
+El gato guia de 42: hab\'e9is llegado hasta las puertas de entrada a vuestra segunda casa, pero no estar\'e9is solo a partir de aqu\'ed yo sere vuestra alma gu\'eda que os acompa\'f1ara para evitar que mur\'e1is.\
+1. Lo primero que ten\'e9is que hacer es entrar as\'ed que empezad a buscar la manera, lo \'fanico que yo se es que yo he aparecido aqu\'ed convertido en gato renacido cuando estaba soltando las casos de haber comido al sol.\
+2. Lo primero que ten\'e9is que hacer es entrar as\'ed que empezad a buscar la manera, \'a1 ah con bien y fresquito que estaba yo en verano bajo el!.\
+3. Lo primero que ten\'e9is que hacer es entrar as\'ed que empezad a buscar la manera, aun me acuerdo del d\'eda de mmi muerte como si fuese ayer e Iva caminando por la calle y algo me dio.\
+4. Lo primero que ten\'e9is que hacer es entrar as\'ed que empezad a buscar la manera, aun recuerdo eso d\'edas en que nevaba en la madre patria y bebimos para calentarnos no como aqu\'ed que hace calor incluso en invierno.\
+5. Lo primero que ten\'e9is que hacer es entrar as\'ed que empezad a buscar la manera, lo que mas me molesta de ser gato son las ganas que tengo de jugar con una bola.\
+En estos sitios se pondr\'e1 un c\'f3digo con la palabra Menlo (amigo en elfin), migo (amigo en minion), 
+\f3\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
+jup ghaH jagh jagh'e' (amigo en Klingon), Raqiros (alto Valirio),  narujiwenipo (idioma de los sims), 
+\f0\fs24 \cf0 \cb1 \kerning1\expnd0\expndtw0  \
+\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+
+\f2\b \cf0 pruebas de c\'f3digo\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+
+\f0\b0 \cf0 \
+\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+
+\f2\b \cf0  ft_strlcpy\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+
+\f0\b0 \cf0  Archivos a entregar: ft_strcpy.c \
+Funciones autorizadas: Ninguna \
+ Reproduce el comportamiento de la funci\'f3n strcpy (man strcpy) \
+ El prototipo de la funci\'f3n deber\'e1 ser el siguiente:\
+\pard\pardeftab720\sl360\partightenfactor0
+
+\f4 \cf4 \cb5 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 size_t  ft_strlcpy(char *dst, const char *src, size_t dstsize)\cb1 \
+\pard\pardeftab720\pardirnatural\partightenfactor0
+
+\f2\b \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\
+\
+ft_str_is_printable
+\f0\b0  \
+Archivos a entregar: ft_str_is_printable.c \
+\
+Funciones autorizadas: Ninguna\
+ \
+ Crea una funci\'f3n que devuelva 42 si el string usado como par\'e1metro contiene \'fanicamente caracteres imprimibles y devuelva 0 si contiene otro tipo de caracteres.\
+ \
+ El prototipo de la funci\'f3n deber\'e1 ser el siguiente:
+\f2\b  int ft_str_is_printable(char *str
+\f0\b0 ); \
+ Tendr\'e1 que devolver 
+\f2\b void
+\f0\b0  si str es un string vac\'edo.\
+\pard\pardeftab720\ri833\sa281\pardirnatural\partightenfactor0
+\cf0 \
+\pard\pardeftab720\ri833\sa281\pardirnatural\partightenfactor0
+
+\f2\b \cf0 ft_strcapitalize
+\f0\b0  \
+ Archivos a entregar: ft_strcapitalize.c \
+Funciones autorizadas: Ninguna \
+ Crea una funci\'f3n que ponga en may\'fascula la primera letra de cada palabra y el resto de la palabra en min\'fasculas.\
+ Una palabra es una secuencia (string) de caracteres alfanum\'e9ricos. \
+ El prototipo de la funci\'f3n deber\'e1 ser el siguiente: 
+\f2\b char *ft_strcapitalize(char *str);
+\f0\b0  \
+ Deber\'e1 devolver str.\
+\
+
+\f2\b ft_print_memory\
+\pard\pardeftab720\ri833\sa281\pardirnatural\partightenfactor0
+
+\f0\b0 \cf0 Archivos a entregar: ft_print_memory.c \
+Funciones autorizadas: write \
+ Escriba una funci\'f3n que muestre la regi\'f3n de memoria en la pantalla. \
+ La visualizaci\'f3n de la regi\'f3n de memoria estar\'e1 dividida en tres \'93columnas\'94 separadas por un espacio: \
+ La direcci\'f3n en hexadecimal del primer car\'e1cter de la l\'ednea seguido de \'93:\'94. \
+ El contenido en hexadecimal, con un espacio cada dos caracteres, deber\'e1 ser completado con espacios si es preciso. \
+ El contenido en caracteres imprimibles. \
+ Si un car\'e1cter es no imprimible ser\'e1 remplazado por un punto. \
+ Cada l\'ednea debe contener diecis\'e9is caracteres. \
+ Si size es igual a 0, no se muestra nada.\
+ El prototipo de la funci\'f3n deber\'e1 ser el siguiente: 
+\f2\b void *ft_print_memory(void *addr, unsigned int size);
+\f0\b0  \
+ Deber\'e1 devolver addr.\
+\
+\pard\pardeftab720\ri833\sa281\pardirnatural\partightenfactor0
+
+\f2\b \cf0 Solo los mejores saben mostrar la Z\
+\pard\pardeftab720\ri833\sa281\pardirnatural\partightenfactor0
+
+\f0\b0 \cf0 Archivos a entregar: z.\
+Funciones autorizadas: Ninguna.\
+Crear un archivo llamado z que devuelve Z, seguido de una nueva l\'ednea de, cada vez que el comando CAT se utiliza en el.\
+\pard\pardeftab720\ri833\sa281\pardirnatural\partightenfactor0
+
+\f2\b \cf0 \'bfQu\'e9 crees que imprimir\'e1 la siguiente sentencia? \
+\pard\pardeftab720\ri833\sa281\pardirnatural\partightenfactor0
+
+\f0\b0 \cf0 Comprueba tu respuesta. printf("Frase de prueba.\\rotra frase encima\\ny otras\\b mas\\n");\
+\
+\pard\pardeftab720\ri833\sa281\pardirnatural\partightenfactor0
+
+\f2\b \cf0 Escribe un programa que pida un n\'famero entero,\
+\pard\pardeftab720\ri833\sa281\pardirnatural\partightenfactor0
+
+\f0\b0 \cf0  conteste al usuario: \'93Has introducido el numero (x), gracias\'94\
+\
+\pard\pardeftab720\ri833\sa281\pardirnatural\partightenfactor0
+
+\f2\b \cf0 Escribe un programa que pregunte al usuario cu\'e1ntos a\'f1os tiene\
+\pard\pardeftab720\ri833\sa281\pardirnatural\partightenfactor0
+
+\f0\b0 \cf0 Conteste al usuario: \'93Ahora s\'e9 que tienes (x) a\'f1os, gracias\'94.\
+\pard\pardeftab720\ri833\sa281\pardirnatural\partightenfactor0
+
+\f2\b \cf0 C\'e1lculo de precios con descuento\
+\pard\pardeftab720\ri833\sa281\pardirnatural\partightenfactor0
+
+\f0\b0 \cf0  Escribe un programa que pregunte el precio, el tanto por ciento de descuento, y te diga el precio con descuento. \
+Por ejemplo, si el precio que introduce el usuario es 300 y el descuento 20, el programa dir\'e1 que el precio final con descuento es de 240.\
+\pard\pardeftab720\ri833\sa281\pardirnatural\partightenfactor0
+
+\f2\b \cf0 C\'e1lculo de \'e1rea y per\'edmetro
+\f0\b0  \
+Escribe un programa que pregunte al usuario los dos lados de un rect\'e1ngulo y presente por pantalla el c\'e1lculo del per\'edmetro (
+\f2\b suma de los lados
+\f0\b0 ) y el \'e1rea (
+\f2\b base por altura
+\f0\b0 ).\
+
+\f2\b Pasar de d\'edas a horas
+\f0\b0 . \
+Escribe un programa que pida al usuario los siguientes datos: d\'edas. Y le conteste con la cantidad de horas totales que son esos datos.\
+
+\f2\b Pruebas de ciberseguridad\
+Descifrar un c\'f3digo\
+	Parte uno\
+\pard\pardeftab720\ri833\sa281\pardirnatural\partightenfactor0
+
+\f0\b0 \cf0 Descifrar el siguiente c\'f3digo que se escribir\'e1 en una hoja de google docs, en el ordenador de la persona designada para ciber seguridad para encontrar las instrucciones de en que lugar se encuentra el c\'f3digo de la taquilla. \
+tu taquilla esta a la izquieeda de 21 y encima de la 31\
+https://gchq.github.io/CyberChef/#recipe=RC4(%7B'option':'Latin1','string':''%7D,'Latin1','Base64')To_Hexdump(16,false,false,true)From_Hexdump()&input=CnR1IHRhcXVpbGxhIGVzdGEgYSBsYSBpenF1aWVlZGEgZGUgMjEgeSBlbmNpbWEgZGUgbGEgMzE\
+El resultado es \
+1Gz8YddWLE/janIGdwvhGaY6HoOcrcv+P1o4W0LzO/+IqBAnX66ZvGEfy6hZkUM571G4QdpCrfE=\
+Que seria la clave a desencriptar\
+	
+\f2\b Parte dos\
+
+\f0\b0 Para encontrar el numero de taquilla se deber\'e1 encontrar el QR correcto que te dar\'e1 una combinaci\'f3n de n\'fameros que al pasarlo por un compilador de n\'fameros\
+ https://www.dcode.fr/rango-alfabetico\
+El coding es 2221\
+23;16;0;25;13;24;19;21;13;0;23;9;0;2;2;2;1;\
+\
+\pard\pardeftab720\partightenfactor0
+\cf0 \
+\pard\pardeftab720\li579\ri833\sa281\pardirnatural\partightenfactor0
+\cf0 \
+\
+https://qrfy.com/my-qr-codes\
+\pard\pardeftab720\li579\ri833\sa281\pardirnatural\partightenfactor0
+
+\f2\b \cf0 Descifrar la imagen\
+\pard\pardeftab720\partightenfactor0
+
+\f0\b0 \cf6 \expnd0\expndtw0\kerning0
+\
+\pard\pardeftab720\li579\ri2165\sa281\pardirnatural\partightenfactor0
+\cf0 \kerning1\expnd0\expndtw0 https://qrfy.com/my-qr-codes\
+Encontrar el c\'f3digo relacionado con la imagen dentro de la pagina web que en este caso es The Legend of Zelda.\
+
+\f2\b Descifra el c\'f3digo SSH\
+
+\f0\b0 https://overthewire.org/wargames/bandit/bandit0.html\
+Connectate usando SSH al host de\
+ 
+\f5\fs32 \cf6 \cb3 \expnd0\expndtw0\kerning0
+bandit.labs.overthewire.org\
+Usando el puerto 2220
+\f6\b \
+\pard\pardeftab720\partightenfactor0
+
+\f5\b0 \cf6 The username is\'a0
+\f6\b bandit0
+\f5\b0 \'a0and the password is\'a0
+\f6\b bandit0
+\f0\b0\fs24 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
+\pard\pardeftab720\li579\ri2165\sa281\pardirnatural\partightenfactor0
+\cf6 \expnd0\expndtw0\kerning0
+\
+\pard\pardeftab720\partightenfactor0
+\cf6 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \kerning1\expnd0\expndtw0 \
+\pard\pardeftab720\li1440\pardirnatural\qc\partightenfactor0
+\cf0 	\'95	Monstruos  \
+\pard\pardeftab720\li160\ri160\sb160\sa160\pardirnatural\partightenfactor0
+
+\f7\fs20 \cf7 Aberraci\'f3n\
+Las aberraciones son seres en extremo an\'f3malos y extra\'f1os Muchos poseen habilidades m\'e1gicas que se originan en sus mentes an\'f3malas y no en las fuerzas m\'edsticas de la naturaleza.\
+Bestia\
+Las bestias son todos los animales no-humanoides que son parte del mundo natural. Algunos podr\'edan poseer ciertos poderes m\'e1gicos, pero la gran mayor\'eda no poseen ni inteligencia, ni organizaci\'f3n social ni lenguaje. Dentro del tipo \'93bestia\'94 se incluyen todos los animales conocidos, incluso dinosaurios o versiones gigantes de animales normales.\
+Celestial\
+Los celestiales son seres nativos de los Planos Superiores. Muchos son sirvientes de las deidades como mensajeros o agentes en el mundo mortal o en otros planos. Los celestiales son buenos por naturaleza as\'ed que el celestial que se desv\'eda de la alineaci\'f3n ben\'e9fica es una horrible rareza. Entre los celestiales est\'e1n: \'e1ngeles, cou\'e1tles y pegasos.\
+Construcci\'f3n\
+Una construcci\'f3n es hecha no nacida. Algunos son programados para seguir instrucciones sencillas, mientras otros son capacitados con inteligencia y conciencia propias. Los golems son las construcciones m\'e1s ic\'f3nicas. Muchos seres nativos de Mechanus, tales como los modrones, son construcciones creadas de la materia pura de ese plano por la voluntad de poderosos seres.\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+\cf7 \
+\pard\pardeftab720\li160\ri160\sb160\sa160\pardirnatural\partightenfactor0
+\cf7 Drag\'f3n\
+Los dragones son seres de or\'edgenes ancestrales y temibles poderes. Los dragones verdaderos, que incluye a los dragones met\'e1licos ben\'e9ficos y los dragones crom\'e1ticos malignos, son seres de gran inteligencia y capacidades m\'e1gicas innatas. Dentro de esta categor\'eda se incluyen seres relacionados con los verdaderos dragones pero menos poderosos, inteligentes y m\'e1gicos tales como guivernos, y pseudodragones\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+\cf7 \
+\pard\pardeftab720\li160\ri160\sb160\sa160\pardirnatural\partightenfactor0
+\cf7 Elemental\
+Los Elementales son seres nativos de las planos elementales. Algunos son simples masas animadas de sus respectivos elementos, los elementales simples. Otros poseen energ\'eda elemental influ\'edda en su forma biol\'f3gica. Las razas de genios, incluyendo los jinn y los efrit, forman las m\'e1s importantes civilizaciones del Plano Elemental. Otros seres elementales son: azeres, acechadores invisibles y aguararas\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+\cf7 \
+\pard\pardeftab720\li160\ri160\sb160\sa160\pardirnatural\partightenfactor0
+\cf7 Hada\
+Las hadas son seres m\'e1gicos fuertemente ligados a las fuerzas de la naturaleza. Viven en las grutas oscuras y los bosques nuboso. En otras palabras, est\'e1n fuertemente relacionados al Plano de Faerie. Algunos tambi\'e9n se encuentran en los Planos Exteriores, particularmente en Arb\'f3rea y Bestialia. Las hadas incluyen: Dr\'edades, pixis y s\'e1tiros.\
+Fel\'f3n\
+Los felones son seres retorcidos de los Planos Inferiores. Algunos son sirvientes de deidades, pero muchos laboran para archidiablos y pr\'edncipes demon\'edacos. Sacerdotes malignos y magos en ocasiones invocan felones al mundo material para pedirles favores. Si un celestial maligno es una rareza, un fel\'f3n bueno es casi inconcebible. Los felones incluyen: demonios, diablos, perros infernales, rakshasas y yugolotes.\
+Gigante\
+Los gigantes son humanoides de tama\'f1os extremos, pueden poseer m\'faltiples cabezas como los etinos o deformidades como los fomorianos. Existen seis variedades principales de gigantes verdaderos: gigantes de monta\'f1a, de piedra, de fr\'edo, de fuego, de nube y de tormenta. Adem\'e1s, otros como ogros y troles son tambi\'e9n gigantes.\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+\cf7 \
+\pard\pardeftab720\li160\ri160\sb160\sa160\pardirnatural\partightenfactor0
+\cf7 Humanoide\
+Los humanoides son los principales seres del mundo de fantas\'eda, pueden ser civilizados o salvajes. \'a0Poseen lenguaje y cultura, muy pocos nacen con habilidades m\'e1gicas, aunque la mayor\'eda puede aprender magia, todos son bipedales. Las razas m\'e1s comunes son las m\'e1s adecuadas para los jugadores: humanos, enanos, elfos y medianos.\
+Goblinoide\
+Los goblinoides son seres que existen en grandes n\'fameros, son muy salvajes, brutales y usualmente malignos. Las razas goblinoides son: duende, hobgoblin, bugbear, orco, gnoll, lizardfolk y kobol.\
+Monstruosidad\
+Las monstruosidades son en sentido estricto los verdaderos \'93monstruos\'94, seres temibles, fuera de lo com\'fan, de lo natural y casi nunca benignos. Algunos son resultado de fallos en la experimentaci\'f3n m\'e1gica, otros productos de terribles maldiciones como los minotauros y los yuan-ti. \'a0Las monstruosidades desaf\'edan toda explicaci\'f3n y su categor\'eda se utiliza para cualquier ser que no pueda ser inclu\'eddo en otros tipos.\
+Viscoso\
+Los viscosos son seres gelatinosos que rara vez tiene forma fija. Son usualmente subterr\'e1neos, viven en cuevas y mazmorras aliment\'e1ndose de basura, carro\'f1a, y seres desgraciados que tengan la mala suerte de topar con ellos. Los pudines negros y los cubos gelatinosos son los m\'e1s comunes viscosos.\
+Plantas\
+Las plantas en este contexto son seres vegetal extraordinarios. La mayor\'eda son ambulatorios y algunos carn\'edvoros. Las plantas m\'e1s conocidas son las mara\'f1as y los treant. Seres fungosos como el gas de esporas y los mic\'f3nidos caen en esta categor\'eda.\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+\cf7 \
+\pard\pardeftab720\li160\ri160\sb160\sa160\pardirnatural\partightenfactor0
+\cf7 NoMuerto\
+Los no-muertos fueron alguna vez seres vivos, arrastrados a un horrible estado de no-muerte por medio de pr\'e1cticas necrom\'e1nticas o alguna maldici\'f3n imp\'eda. Los no-muertos incluyen cad\'e1veres andantes, como vampiros y zombis, tambi\'e9n esp\'edritus sin cuerpos como fantasmas y espectros.\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+\cf7 \
+\pard\pardeftab720\sb131\pardirnatural\partightenfactor0
+
+\f0\fs22 \cf8 El tama\'f1o de un monstruo determina el dado utilizado para calcular sus puntos de golpe como se indica en la tabla.\
+\pard\pardeftab720\li579\ri833\sa281\pardirnatural\partightenfactor0
+\cf8 \
+\pard\pardeftab720\li160\ri160\sb160\sa160\pardirnatural\qc\partightenfactor0
+
+\f8\b\fs20 \cf7 Tama\'f1o\
+HP\
+Promedio por dado (aprox.)\
+\pard\pardeftab720\li160\ri160\sb160\sa160\pardirnatural\partightenfactor0
+
+\f7\b0 \cf7 Diminuto\
+\pard\pardeftab720\li160\ri160\sb160\sa160\pardirnatural\qc\partightenfactor0
+\cf7 d4\
+2\'bd\
+\pard\pardeftab720\li160\ri160\sb160\sa160\pardirnatural\partightenfactor0
+\cf7 Peque\'f1o\
+\pard\pardeftab720\li160\ri160\sb160\sa160\pardirnatural\qc\partightenfactor0
+\cf7 d6\
+3\'bd\
+\pard\pardeftab720\li160\ri160\sb160\sa160\pardirnatural\partightenfactor0
+\cf7 Mediano\
+\pard\pardeftab720\li160\ri160\sb160\sa160\pardirnatural\qc\partightenfactor0
+\cf7 d8\
+4\'bd\
+\pard\pardeftab720\li160\ri160\sb160\sa160\pardirnatural\partightenfactor0
+\cf7 Grande\
+\pard\pardeftab720\li160\ri160\sb160\sa160\pardirnatural\qc\partightenfactor0
+\cf7 d10\
+5\'bd\
+\pard\pardeftab720\li160\ri160\sb160\sa160\pardirnatural\partightenfactor0
+\cf7 Enorme\
+\pard\pardeftab720\li160\ri160\sb160\sa160\pardirnatural\qc\partightenfactor0
+\cf7 d12\
+6\'bd\
+\pard\pardeftab720\li160\ri160\sb160\sa160\pardirnatural\partightenfactor0
+\cf7 Gigantesco\
+\pard\pardeftab720\li160\ri160\sb160\sa160\pardirnatural\qc\partightenfactor0
+\cf7 d20\
+10\'bd\
+\pard\pardeftab720\li579\ri833\sa281\pardirnatural\partightenfactor0
+\cf7 \
+\pard\pardeftab720\sb218\pardirnatural\partightenfactor0
+
+\f2\b\fs38 \cf9 Sentidos\
+\pard\pardeftab720\sb131\pardirnatural\partightenfactor0
+
+\f0\b0\fs22 \cf8 La descripci\'f3n de los sentidos indica la percepci\'f3n pasiva (Sabidur\'eda) del monstruo, adem\'e1s de describir cualquier otro sentido especial que el monstruo posea. Los sentidos especiales son:\
+\pard\pardeftab720\sb175\pardirnatural\qc\partightenfactor0
+
+\f2\b\fs2 \cf8 \
+\
+\pard\pardeftab720\sb175\pardirnatural\partightenfactor0
+
+\fs30 \cf8 Vista ciega\
+\pard\pardeftab720\sb131\pardirnatural\partightenfactor0
+
+\f0\b0\fs22 \cf8 Una criatura con vista ciega puede percibir lo que le rodea sin recurrir a la vista, dentro del radio indicado.\
+Criaturas sin ojos, como los grimorloks y cienos grises, t\'edpicamente tienen este sentido especial, como las criaturas con ecolocaci\'f3n o agudisimos sentidos, como murci\'e9lagos y dragones aut\'e9nticos.\
+Si el monstruo es ciego esto se indica y significa que su Vista Ciega es el m\'e1ximo rango de su percepci\'f3n.\
+\pard\pardeftab720\sb175\pardirnatural\qc\partightenfactor0
+
+\f2\b\fs2 \cf8 \
+\
+\pard\pardeftab720\sb175\pardirnatural\partightenfactor0
+
+\fs30 \cf8 Visi\'f3n en la oscuridad\
+\pard\pardeftab720\sb131\pardirnatural\partightenfactor0
+
+\f0\b0\fs22 \cf8 Una criatura con visi\'f3n en la oscuridad puede ver en la oscuridad dentro de un radio espec\'edfico.\
+Una criatura podr\'e1 ver en luz tenue dentro de un radio espec\'edfico como si fuese luz brillante y en la oscuridad como si se tratase de luz tenue. No se puede discernir colores en la oscuridad, solo tonos de gris. Muchas criaturas que moran bajo tierra tienen visi\'f3n en la oscuridad.\
+\pard\pardeftab720\sb175\pardirnatural\qc\partightenfactor0
+
+\f2\b\fs2 \cf8 \
+\
+\pard\pardeftab720\sb175\pardirnatural\partightenfactor0
+
+\fs30 \cf8 Sentido de vibraci\'f3n\
+\pard\pardeftab720\sb131\pardirnatural\partightenfactor0
+
+\f0\b0\fs22 \cf8 Un monstruo con sentido de vibraci\'f3n puede detectar y discernir el origen de una vibraci\'f3n dentro de un radio espec\'edfico.\
+Este sentido requiere el contacto directo con la superficie que transmite la vibraci\'f3n y no se puede utilizar para detectar seres incorp\'f3reos o voladores.\
+Monstruos con capacidades de excavar usualmente tienen esta habilidad.\
+\pard\pardeftab720\sb175\pardirnatural\qc\partightenfactor0
+
+\f2\b\fs2 \cf8 \
+\
+\pard\pardeftab720\sb175\pardirnatural\partightenfactor0
+
+\fs30 \cf8 Visi\'f3n verdadera\
+\pard\pardeftab720\sb131\pardirnatural\partightenfactor0
+
+\f0\b0\fs22 \cf8 Una criatura con visi\'f3n verdadera pueden ver todo en su forma original, independiente del entorno.\
+Una criatura con visi\'f3n verdadera puede, en un alcance espec\'edfico, ver en la oscuridad normal y m\'e1gica, ver criaturas y objetos invisibles, autom\'e1ticamente detectan ilusiones visuales y autom\'e1ticamente tienen \'e9xito en las salvaciones contra ellas y perciben la forma original de los cambiaformas o criaturas que fuesen transformadas por la magia.\
+\
+\
+\
+\
+\pard\pardeftab720\pardirnatural\qc\partightenfactor0
+
+\fs24 \cf0 Mapa\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+
+\f2\b \cf0 Recepci\'f2n\
+\
+\
+Primera planta\
+\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+
+\f0\b0 \cf0 \
+\pard\pardeftab720\li579\ri833\sa281\pardirnatural\partightenfactor0
+\cf0 \
+\
+\
+\
+\
+\
+\
+\pard\pardeftab720\pardirnatural\qc\partightenfactor0
+\cf0 Historia\
+\pard\pardeftab720\pardirnatural\qc\partightenfactor0
+
+\f2\b \cf0 \'93La jaula de la voluntad de hierro\'94\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\pardeftab720\pardirnatural\partightenfactor0
+
+\f0\b0 \cf0 Hace dos a\'f1os, llego a las instalaciones de 42 Malaga una malvada hechicera conocida como 
+\f2\b @Sweme.\
+
+\f0\b0  Haci\'e9ndose pasar por estudiante de 42 M\'e1laga, paso la piscina, y aprendi\'f3 todos los conocimientos necesarios para avanzar en su plan maestro de 
+\f2\b CONQUISTAR 42.
+\f0\b0  Para hacerse as\'ed con el poder de los 
+\f2\b Staff
+\f0\b0  .\
+Controlando las vidas y martirizar con fotos y reportajes diarios de todos los 
+\f2\b estudiantes!!!!!!!
+\f0\b0  , para  publicarlos en su cuenta de instagram y as\'ed convertirse en 
+\f2\b La Gran Administradora,
+\f0\b0  dominar las redes con pu\'f1o de hierro y atraer a m\'e1s estudiantes, para seguir consiguiendo mas y mas fotograf\'edas y reportajes con el motivo final de conquistar todos los 42 de Espa\'f1a!!!!!! Y ser 
+\f2\b  la MAYOR HECHICERA INFLUENCER DE MALAGA
+\f0\b0 .\
+Un d\'eda ya anocheciendo, durante sus estudios la infame hechicera observaba el cielo nocturno, m\'e1s en concreto ciertas estrellas oscuras cuyos movimientos profetizaban calamidades y seg\'fan sus teor\'edas, podr\'edan otorgarle el poder m\'e1gico necesario para dominarlos a todos.\
+Sin embargo al intentar canalizar la energ\'eda de las estrellas 
+\f2\b @sweme 
+\f0\b0 abri\'f3 accidentalmente un portal al 
+\f2\b Abismo Oscuro 
+\f0\b0 y libero una marea de demonios que r\'e1pidamente se hicieron con el lugar, teniendo que lanzarse a s\'ed misma un conjuro ancestral de esp\'edritu,\'94segmentation fault\'94 el cual le permiti\'f3 escapar dejando lo atr\'e1s,  atormentado y con solo parte de sus recuerdos intactos.\
+Obviando por completo esto, se dio cuenta que el primero de sus staff retenido aun permanec\'eda dentro de la jaula de staff, conocida actualmente por el sobre nombre de 
+\f2\b LA JAULA DE LA VOLUNTAD DE HIERRO
+\f0\b0  y que si quer\'eda recuperarlo, deber\'eda enga\'f1ar a un nuevo grupo de valerosos estudiantes para que hicieran el trabajo por ella.\
+\pard\pardeftab720\li5040\pardirnatural\partightenfactor0
+\cf0 	\'95	Llegada\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+\cf0 Al llegar por la ma\'f1ana est\'e1is solos en la plaza, hace sol y os calienta, aunque la temperatura no es la mejor, el ambiente es raro a pesar de esto, hay algo que no os cuadra, que no es natural.\
+Al frente veis las escaleras con el c\'e9sped a la izquierda, un poco dejado con la hierba crecida y un gato tumbado sobre el al sol.\
+Al acercaros a la puerta esa luz que tanto os gustaba, se va oscureciendo y tomando un color cobrizo, el gato que antes estaba tumbado se acerca a vosotros despacio, con pintas de querer que lo acaricien pero con un aire de desconfianza, al tenerlo al vuestro lado se sienta, os mira fijamente y os dice \'93MIAU, no pensareis entrar simples entes vac\'edas?\'94 a lo que respond\'e9is que \'93si\'94 con cara de incr\'e9dulos, y un movimiento de cabeza r\'e1pido. A lo cual responde \'93 Pues no durareis mucho, seguro de que antes de que anochezca y salga 
+\f2\b @sweme
+\f0\b0  hab\'e9is muerto, MIAU\'94 \
+\
+Puerta\
+\pard\pardeftab720\li709\pardirnatural\partightenfactor0
+\cf0 Empuj\'e1is la puerta corrediza hacia los lados, pero a vuestra sorpresa esta no se mueve, es mas cambia de color, parece una roca lisa, con aspecto de antigua, m\'e1s que un cristal, y va apareciendo como unas manchas, c\'edrculos, l\'edneas en color un oscuro y oxidado, al apartaros pod\'e9is leer \'93DI AMIGO Y ENTRA\'94 (explicaci\'f3n de yincana, primera yincana)\
+\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+\cf0 Recepci\'f3n\
+Entr\'e1is en la recepci\'f3n y todo est\'e1 donde lo recordabais, pero con un cambio importante, todo est\'e1 sucio, enmohecido ara\'f1ado, algunas luces no funcionan, otras parpadean, hay un olor muy fuerte como a un animal en estado de putrefacci\'f3n aunque a primera vista no veis nada as\'ed.\
+\pard\pardeftab720\li709\pardirnatural\partightenfactor0
+\cf0 Todas las puertas est\'e1n cerradas.\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+\cf0 Cajones\
+Tras la 
+\f2\b mesa
+\f0\b0  de recepci\'f3n hay (X) caj\'f3n, las 
+\f2\b taquillas
+\f0\b0  de los conserjes hay (X) caj\'f3n, debajo de la 
+\f2\b escalera
+\f0\b0  hay (X) caj\'f3n, se abren con retos de ciberseguridad.\
+Usar 1D20 para suerte.\
+Puerta oculta\
+El ascensor es una puerta oculta para abrirlo tienes que resolver un reto de ciberseguridad.\
+Usar 1D20 para suerte.\
+Ascensor\
+Tras conseguir abrir las puertas veis que las luces parpadean y parece que se ha ca\'eddo a plomo desde la primera planta, todo est\'e1 cubierto de un color rojo y un color nauseabundo, hay un trabajador dentro mir\'e1is sus ropas y si lo reconoc\'e9is pero no lo hac\'e9is ya que normalmente solo les dec\'eds hola y adi\'f3s \'93insensibles, de esto no va 42\'94 veis que ocurri\'f3 mientras transportaba algo os acerc\'e1is y \'85.\
+\
+Rellano planta superior\
+al subir las escaleras empez\'e1is a ver qu\'e9 arriba es muy parecido que recepci\'f3n todo est\'e1 donde lo recordabais pero\'85..algo ha cambiado, las puertas est\'e1n cerradas \'bfQu\'e9 ha pasado? \'bfhabr\'e1 habido un incendio? Pero no huele a humo, sigue ese olor extra\'f1o y pegajoso,  las paredes est\'e1n ara\'f1adas y sucias\'85.\
+Para entrar ten\'e9is que abrir las puertas, tira 1D20 para suerte de yincana.\
+Puerta cl\'faster\
+Se deben de abrir con un reto de yincana, 1D20 para suerte.\
+Rellano cl\'faster\
+Perooooo!!!!!!!, esto qu\'e9 es?? Ahora si veis cambios las paredes no son grises lisas por la pintura se ha ido solo se ve el ladrillo manchado de sangre, las puertas no est\'e1n las han arrancado y solo pod\'e9is ir hacia el lado derecho porque hay un muro que antes no estaba all\'ed un ruido de gritos os estremece, \'bfhay alguien en apuros?.\
+Taquillas\
+En las taquillas hay cofres (X), la mitad que de cajones, el numero es limitado a los primeros (X) que los encuentren un equipo solo cojera dos de ellos en total como m\'e1ximo si llevan y deciden usar el 
+\f2\b amuleto de los planos.\
+
+\f0\b0 En la parte de enfrente muro, no hay nada interesante solo piedra desnuda a medio pintar del gris plomizo de las paredes de 42.\
+\
+Cl\'faster 3\
+\pard\pardeftab720\li709\pardirnatural\partightenfactor0
+\cf0 Avanz\'e1is por el pasillo, y veis la pared que antes era amarilla, digo antes porque ya no, todo est\'e1 oscuro, las luces no funcionan, los ordenadores est\'e1n todos por los suelos rotos y destrozados las mesas no son blancas , hay moho, y trozos de cables y agua cayendo desde el techo, el suelo esta ara\'f1ado!!! Las paredes y las ventanas tapadas, os pregunt\'e1is que extra\'f1o!!!, quien ha podido hacer todo esto?? Que ha pasado aqu\'ed en realidad??.\
+Toda la parte de coworking, esta amontonada en los laterales como si alguien pasara a diario por all\'ed con un camino central despejado \'93
+\f2\b el sitio perfecto para una emboscada\'94
+\f0\b0 , las literas rotas, los colchones rajado y llenos de una sustancia marr\'f3n oscura, y os preguntareis, marr\'f3n oscura?? De que porque??, aqu\'ed falta algo que ser\'e1? Cada vez todo es m\'e1s oscuro ya que esta cayendo la tarde, y una niebla espesa empieza a entrar por las ventanas rotas, y al volveros os fij\'e1is que no pod\'e9is avanzar.\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+\cf0 Las duchas \'93el duchagate\'94\
+\pard\pardeftab720\li709\pardirnatural\partightenfactor0
+\cf0 Para abrirla ten\'e9is que resolver un reto de ciberseguridad, tirad 1D20 para ver suerte.\
+Hab\'e9is encontrado una zona oculta, quiz\'e1s no la hab\'e9is pasado por alto, o quiz\'e1s no est\'e1is acostumbrados a ellas, est\'e1n oscuras sin luz pero se escucha el caer del agua, y el vapor del agua caliente como sale de las tuber\'edas, entre tanto vapor escuch\'e1is ruidos de un animal comiendo, ruidos secos y ag\'f3nicos de falta de respiraci\'f3n, que sale del fondo de la habitaci\'f3n, en las paredes hay marcas de manos grandes y alargadas como que arrastran desde el techo hasta el suelo y a lo largo de ella. (
+\f2\b criatura viscoso \'93pudding negro, ver descripci\'f3n\'94 con atributo de sentido de vista ciega y de la vibraci\'f3n por el agua derramada en el suelo OJO!!!
+\f0\b0 ) es un personaje deforme, rechoncho y con movimientos torpes, los brazos le llegan hasta por debajo de la cintura y al moverse parece gelatina tiene un olor a barro mojado, perro viejo a medio secar que los abarca e inunda todo, no os ve pero al moveros gira su cabeza como queriendo escuchar algo diferente o centrarse en un sonido 
+\f2\b tirar 1D20 para suerte desaf\'edo de ciberseguridad y de programaci\'f3n
+\f0\b0 , 
+\f2\b al morir
+\f0\b0  justo detr\'e1s del veis lo que parece un cofre de madera oscura con una cerradura dorada y cantidad de grabados en una letra extra\'f1a y medio roido, eso es lo que proteg\'eda. el DM tirara 1D4 para cada personaje del grupo en cada movimiento, el cofre solo se abre con ciberseguridad, tirar 1D20 para suerte de la prueba, 1D8 para contenido \'93objeto maravilloso\'94.\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+\cf0 Parte 2 cl\'faster 3\
+\pard\pardeftab720\li709\pardirnatural\partightenfactor0
+\cf0 Hay un muro nuevo que cierra el cl\'faster 2 a la izquierda con s\'edmbolos 
+\f2\b \'94letras r\'fanicas de protecci\'f3n, mas para evitar entrar para evitar salir
+\f0\b0 \'94 y un \'e1rea central con ara\'f1azos que acaban de repente todos en el mismo lugar y otro muro en frente vuestra veis una nueva puerta que da paso a las zonas de literas del cl\'faster 1. 
+\f2\b \'93Para abrirla tirada de suerte de 1D20 desaf\'edo de ciberseguridad\'94.\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+\cf0 \
+\
+\
+\
+\
+\
+\
+\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+
+\f0\b0 \cf0 Cl\'faster 2\
+\pard\pardeftab720\li709\pardirnatural\partightenfactor0
+
+\f2\b \cf0 No descubrir la puerta oculta y abrir la puerta normal yincana 1D20 para suerte.
+\f0\b0  Continuar por cl\'faster 3.\
+Descubrir puerta oculta, debe abrirse con 
+\f2\b desaf\'edo de ciberseguridad 1D20 para suerte\
+I
+\f0\b0 nterior:\
+Nada m\'e1s entrar os encontr\'e1is con unos escalones de piedra, cubiertos de musgos y olor a humedad, la c\'e1mara est\'e1 a oscuras salvo por una tenue luz que os deja deslumbrar la forma de los posibles objetos que all\'ed encontr\'e9is, al avanzar por las escaleras y veis un altar con algo tumbado encima, sin movimiento ni respiraci\'f3n pero de gran volumen y medio descompuesto, que os mira con unos ojos peque\'f1os amarillo brillante que consegu\'eds ver incluso con la poca luz procedente de las peque\'f1as rendijas de las piedras con las que se tapiaron las ventanas.\
+Al avanzar hasta el ultimo escal\'f3n esa masa deforme se pone en pie y veis su piel casi podrida por la humedad y los gusanos que la devoran, su aspecto agresivo aunque voluminoso sus largas garras y no lleg\'e1is a verles los dientes pero supon\'e9is que tiene que tener \'93
+\f2\b es un batidor criatura humanoide mediano con habilidad de visi\'f3n en la oscuridad, ve en la oscuridad como si fuese pleno d\'eda. Tira 1D20 para suerte desaf\'edo ciberseguridad y de programaci\'f3n y 1D4 para suerte de premio
+\f0\b0 .\
+Al morir.\
+En el altar, sale una niebla espesa que no vuela solo se derrama por el suelo mostr\'e1ndoos un objeto oculto por magia de invisibilidad, es un cofre que deber\'e9is abrir con prueba de ciberseguridad tira 1D20 para suerte. Y tambi\'e9n veis una salida por donde se escapa la niebla y se nota la luz del atardecer al cruzar esa puerta sin clave os encontr\'e1is con una luz rojiza del atardecer procedente de los ventanales  del cl\'faster 1.\
+\pard\pardeftab720\pardirnatural\partightenfactor0
+\cf0 Cl\'faster 1 
+\f2\b \'93se acerca el final\'94\
+\pard\pardeftab720\li709\pardirnatural\partightenfactor0
+
+\f0\b0 \cf0 Una vez que os acostumbr\'e1is a la luz pod\'e9is ver que esa parte de 42 no ha cambiado apenas solo por el polvo acumulado en las mesas, las pantallas, teclado y ratones, las taquillas al fondo, \'93
+\f2\b DENTRO DE UNA DE ELLAS HAY UN COFRE 1D20 desaf\'edo de ciberseguridad
+\f0\b0 .\
+Las sillas est\'e1n algo desordenadas como si se hubiera vaciado todo corriendo por una emergencia o huyendo de algo pero no todo es como lo pintan, Joaqu\'edn esta en el centro de la habitaci\'f3n de pie mir\'e1ndoos con los ojos fijos concentrados en vosotros como si os estuviera escudri\'f1ando intentado diferenciaros de el resto de criaturas que os hab\'e9is encontrado por el camino.\
+Al acercaros os mira  m\'e1s detenidamente y os dice \'93
+\f2\b SI, ESTO ES D&D Y YO HABLO NO CONFUND\'c1IS LA REALIDAD CON MI MUNDO, CUALQUIER COSA PARECIDA ES PRODUCTO DE TU IMAGINACI\'d3N\'94
+\f0\b0  @SWEME LA JOAQU\'cdN BUENA, \
+\pard\pardeftab720\li720\pardirnatural\partightenfactor0
+\cf0 	\'95	Hola chicos os estaba esperando, llevaba mucho tiempo aqu\'ed solo y fuera se oyen ruidos extra\'f1os.\
+	\'95	He salido de la jaula de los staff saltando por encima de la valla \'93os recuerdo que soy un mono. Y dentro se han quedado todo tal y como estaba, bueno casi, hay cosas que antes no estaban all\'ed!!\
+	\'95	No s\'e9 qu\'e9 ha pasado solo s\'e9 que me despert\'e9 hace ya varias ma\'f1anas y estaba solo hasta ahora,\
+	\'95	 \'bfhab\'e9is venido a por m\'ed?\
+	\'95	Tengo un secreto: vosotros conoc\'e9is a la pel\'edcula de los caza fantasmas ?, pues creo que yo por las noches soy la bibliotecaria del principio.\
+	\'95	Espero que si ten\'e9is algo escondido en las mangas que no hay\'e1is usado aun pod\'e1is usarlo para salvarme.\
+\pard\pardeftab720\li709\pardirnatural\partightenfactor0
+\cf0 \
+Si han sido listos y prestado atenci\'f3n entraran en la jaula de los staff donde hay cofre oculto sin prueba, tira 1D8 para suerte.\
+\
+Toda esta charla era solo una estrategia para que la noche callera  y la @sweme buena termine de desvanecerse y Joaqu\'edn se abriera las costuras y saliera el esp\'edritu Shezaida la parte mala de @sweme un ente malvado producto del hechizo 
+\f2\b segmentation fault 
+\f0\b0 que solo recuerda parte de la vida de la hechicera @sweme vestida con ropaje blanco rasgado piel gris\'e1cea y venas blancas muy marcadas por todo su cuerpo, tiene atributo de movimiento incorp\'f3reo puede moverse a trav\'e9s de paredes u otros personajes, incluso posey\'e9ndolos.\
+\
+\pard\pardeftab720\li720\pardirnatural\partightenfactor0
+\cf0 	\'95	Sucios \'a1!, peque\'f1os!!!, malditos entes vacios!! Que hac\'e9is en mi reino de 42!!! Con voz carraspeante.\
+	\'95	Pues llegareis hasta aqu\'ed no mas mas haya!!!!\
+\pard\pardeftab720\li709\pardirnatural\partightenfactor0
+\cf0 \
+Tirar 1d8 para suerte a resolver 2 pruebas de ciber o 3 de programaci\'f3n.\
+\
+\pard\pardeftab720\li709\pardirnatural\partightenfactor0
+
+\f2\b \cf0 OJO \'a1!!!!!
+\f0\b0 Pueden utilizar conjuros para paralizarla y no hacer las pruebas pudiendo escapar con Joaqu\'edn descosido no reciben premio bonus de +3 en concentraci\'f3n, alternativa dej\'e1rsela viva al siguiente grupo que no salvara a Joaqu\'edn pero si recibe bonus, conjuro tela de ara\'f1a que la bloquee y se divide los por la mitad, salva Joaqu\'edn y recibe bonus.\
+\
+Una vez muerta Joaqu\'edn vuelve a su forma.\
+\pard\pardeftab720\li720\pardirnatural\partightenfactor0
+\cf0 	\'95	\'a1!! Corred insensatos!!!! Huyamos de aqu\'ed!!!!!\
+\pard\pardeftab720\li709\pardirnatural\partightenfactor0
+\cf0 Sal\'eds por la puerta principal de los cl\'faster y os encontr\'e1is en el rellano del ascensor de la primera planta, os cre\'e9is a salvo por ahora, pero Joaqu\'edn os mira muy detenidamente y con voz seria os dice:\
+\
+\pard\pardeftab720\pardirnatural\qc\partightenfactor0
+
+\fs40 \cf10 CONTINUARA\
+\pard\pardeftab720\li709\pardirnatural\partightenfactor0
+\cf10 \
+}
