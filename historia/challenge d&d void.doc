@@ -1,0 +1,956 @@
+{\rtf1\ansi\deff4\adeflang1025
+{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset2 Symbol;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\froman\fprq2\fcharset128 Times New Roman;}{\f4\froman\fprq0\fcharset0 Times-Roman{\*\falt Times New Roman};}{\f5\fswiss\fprq2\fcharset128 Arial;}{\f6\froman\fprq0\fcharset0 Times-Bold;}{\f7\froman\fprq0\fcharset0 Times-Italic;}{\f8\fswiss\fprq0\fcharset0 Helvetica-Bold;}{\f9\fswiss\fprq0\fcharset0 ArialMT;}{\f10\fnil\fprq0\fcharset0 Menlo-Regular;}{\f11\fswiss\fprq0\fcharset0 Helvetica{\*\falt Arial};}{\f12\froman\fprq0\fcharset0 TimesNewRomanPSMT;}{\f13\froman\fprq0\fcharset0 TimesNewRomanPS-BoldMT;}{\f14\fnil\fprq2\fcharset128 Arial Unicode MS;}}
+{\colortbl;\red0\green0\blue0;\red33\green33\blue33;\red60\green64\blue68;\red185\green188\blue186;\red51\green51\blue51;\red255\green0\blue0;\red128\green128\blue128;}
+{\stylesheet{\s0\snext0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033 Default;}
+{\s15\sbasedon0\snext16\sb240\sa120\keepn\hich\af14\dbch\af14\afs28\loch\f5\fs28 Heading;}
+{\s16\sbasedon0\snext16\sb0\sa120 Text body;}
+{\s17\sbasedon16\snext17\sb0\sa120 List;}
+{\s18\sbasedon0\snext18\sb120\sa120\noline\i\afs24\ai\fs24 Caption;}
+{\s19\sbasedon0\snext19\noline Index;}
+}{\info{\author pakito gonzalez}{\creatim\yr0\mo0\dy0\hr0\min0}{\revtim\yr0\mo0\dy0\hr0\min0}{\printim\yr0\mo0\dy0\hr0\min0}{\comment OpenOffice}{\vern41110}}\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720
+
+{\*\pgdsctbl
+{\pgdsc0\pgdscuse195\pgwsxn12240\pghsxn15840\marglsxn1134\margrsxn1134\margtsxn1134\margbsxn1134\pgdscnxt0 Default;}}
+\formshade{\*\pgdscno0}\paperh15840\paperw12240\margl1134\margr1134\margt1134\margb1134\sectd\sbknone\sectunlocked1\pgndec\pgwsxn12240\pghsxn15840\marglsxn1134\margrsxn1134\margtsxn1134\margbsxn1134\ftnbj\ftnstart1\ftnrstcont\ftnnar\aenddoc\aftnrstcont\aftnstart1\aftnnrlc
+\pgndec\pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\rtlch \ltrch\loch
+\tab \tab \tab }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li432\ri0\lin432\rin0\fi0{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\rtlch \ltrch\loch
+\tab \tab \tab }{\afs50\rtlch \ltrch\loch\fs50
+Dungeons & Dragons}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\afs41\rtlch \ltrch\loch\fs41
+\tab \tab \tab \tab \tab 42 challenge}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\afs41\rtlch \ltrch\loch\fs41
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\afs41\rtlch \ltrch\loch\fs41
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\afs41\rtlch \ltrch\loch\fs41
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\afs41\rtlch \ltrch\loch\fs41
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\afs41\rtlch \ltrch\loch\fs41
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\afs41\rtlch \ltrch\loch\fs41
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\afs41\rtlch \ltrch\loch\fs41
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\afs41\rtlch \ltrch\loch\fs41
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\afs41\rtlch \ltrch\loch\fs41
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\afs41\rtlch \ltrch\loch\fs41
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc\li758\ri1151\lin758\rin1151\fi0\sb0\sa13{\afs41\rtlch \ltrch\loch\fs41
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc\li758\ri1151\lin758\rin1151\fi0\sb0\sa13{\i\hich\af7\dbch\af7\ai\rtlch \ltrch\loch\loch\f7
+Resumen:}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc\li758\ri1067\lin758\rin1067\fi0\sb0\sa248{\i\hich\af7\dbch\af7\ai\rtlch \ltrch\loch\loch\f7
+Lucha contra tus enemigos y consigue rescatar a Joaqu\'edn.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc\li758\ri1067\lin758\rin1067\fi0\sb0\sa248{\i\hich\af7\dbch\af7\ai\rtlch \ltrch\loch\loch\f7
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc\li758\ri1067\lin758\rin1067\fi0\sb0\sa248{\i\hich\af7\dbch\af7\ai\rtlch \ltrch\loch\loch\f7
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\b\hich\af6\dbch\af6\afs50\ab\rtlch \ltrch\loch\fs50\loch\f6
+\'cdndice general}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\b\hich\af6\dbch\af6\afs26\ab\rtlch \ltrch\loch\fs26\loch\f6
+\tab Introducci\'f3n }{\afs26\rtlch \ltrch\loch\fs26
+\'85....................................................................................................}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+\tab }{\b\hich\af6\dbch\af6\afs26\ab\rtlch \ltrch\loch\fs26\loch\f6
+Instrucciones generales }{\afs26\rtlch \ltrch\loch\fs26
+\'85...................................................................................}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+\tab }{\b\hich\af6\dbch\af6\afs26\ab\rtlch \ltrch\loch\fs26\loch\f6
+Como jugar }{\afs26\rtlch \ltrch\loch\fs26
+\'85......................................................................................................}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+\tab }{\b\hich\af6\dbch\af6\afs26\ab\rtlch \ltrch\loch\fs26\loch\f6
+Objetos}{\afs26\rtlch \ltrch\loch\fs26
+ \'85..............................................................................................................}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+\tab }{\b\hich\af6\dbch\af6\afs26\ab\rtlch \ltrch\loch\fs26\loch\f6
+Pruebas }{\afs26\rtlch \ltrch\loch\fs26
+\'85.............................................................................................................}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+\tab }{\b\hich\af6\dbch\af6\afs26\ab\rtlch \ltrch\loch\fs26\loch\f6
+Monstruos}{\afs26\rtlch \ltrch\loch\fs26
+ \'85.........................................................................................................}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+\tab Mapa \'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85..}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+\tab }{\b\hich\af6\dbch\af6\afs26\ab\rtlch \ltrch\loch\fs26\loch\f6
+Historia \'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\b\hich\af6\dbch\af6\afs26\ab\rtlch \ltrch\loch\fs26\loch\f6
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+\tab }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+\tab }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa343{\b\hich\af6\dbch\af6\afs50\ab\rtlch \ltrch\loch\fs50\loch\f6
+\tab \tab \tab Cap\'edtulo I}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa432{\rtlch \ltrch\loch
+Introducci\'f3n}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\fs26
+ }{\afs26\rtlch \ltrch\loch\fs26
+\tab Para esta experiencia intra coalici\'f3n vamos a desarrollar un juego basado en Dungeons & Dragons personaliz\'e1ndolo a la comunidad 42. El objetivo es que los componentes del equipo se conozcan m\'e1s y mejor, compartiendo experiencias l\'fadicas que ayuden a mejorar la convivencia y el Peer2Peer.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa343{\b\hich\af6\dbch\af6\afs50\ab\rtlch \ltrch\loch\fs50\loch\f6
+\tab \tab \tab \tab Cap\'edtulo II}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa462{\rtlch \ltrch\loch
+Instrucciones generales}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li10\ri304\lin10\rin304\fi0\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+\tab  \tab Se jugar\'e1 en un tablero (mapa de 42 personalizado), con un punto de SALIDA y otro al que hay que llegar, avanzando, abriendo puertas, descubriendo puertas ocultas, cajones secretos y cofres eliminando monstruos hasta llegar al punto DESTINO donde libraremos una batalla \'e9pica y  liberaremos a un miembro del staff (en la aventura final a Joaqu\'edn).}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li10\ri304\lin10\rin304\fi0\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li10\ri304\lin10\rin304\fi0\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li10\ri304\lin10\rin304\fi0\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li10\ri304\lin10\rin304\fi0\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li10\ri304\lin10\rin304\fi0\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li10\ri304\lin10\rin304\fi0\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li10\ri304\lin10\rin304\fi0\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li10\ri304\lin10\rin304\fi0\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li10\ri304\lin10\rin304\fi0\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li10\ri304\lin10\rin304\fi0\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li10\ri304\lin10\rin304\fi0\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li10\ri304\lin10\rin304\fi0\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li10\ri304\lin10\rin304\fi0\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li10\ri304\lin10\rin304\fi0\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li10\ri304\lin10\rin304\fi0\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li10\ri304\lin10\rin304\fi0\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li10\ri304\lin10\rin304\fi0\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li10\ri304\lin10\rin304\fi0\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li10\ri304\lin10\rin304\fi0\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li10\ri304\lin10\rin304\fi0\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li10\ri304\lin10\rin304\fi0\sb0\sa160{\afs26\rtlch \ltrch\loch\fs26
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li10\ri304\lin10\rin304\fi0\sb0\sa160{\b\hich\af6\dbch\af6\afs50\ab\rtlch \ltrch\loch\fs50\loch\f6
+\tab \tab \tab \tab \tab Cap\'edtulo III}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa432{\rtlch \ltrch\loch
+Como jugar}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li720\ri304\lin720\rin304\fi0{\rtlch \ltrch\loch
+\tab \'95\tab Se formaran grupos de 3 \'96 5 jugadores equilibrados en categor\'edas (programador, astucia\'94 inteligencia, habilidad\'94,  ciberseguridad,  portavoz del grupo.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li720\ri304\lin720\rin304\fi0{\rtlch \ltrch\loch
+\tab \'95\tab Hacer la ficha de grupo de juego.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li720\ri304\lin720\rin304\fi0{\rtlch \ltrch\loch
+\tab \'95\tab Se contara la historia y pondr\'e1 en situaci\'f3n a los jugadores explicando el entorno en el que se encuentran y parte de lo ocurrido.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li720\ri304\lin720\rin304\fi0{\rtlch \ltrch\loch
+\tab \'95\tab Tendr\'e1n que descubrir el funcionamiento de las puertas (ver apartado pruebas /yincana). }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li720\ri304\lin720\rin304\fi0{\rtlch \ltrch\loch
+\tab \'95\tab Avanzar por el mapa se realizara tirando los dados de suerte (2 D8) para descubrir la prueba que hay que resolver antes de moverse por el mapa ( de 1 a 8 prueba f\'e1cil, de 9 a 16 prueba dif\'edcil) las pruebas se realizaran en grupo (ver apartado pruebas / movimientos).}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li720\ri304\lin720\rin304\fi0{\rtlch \ltrch\loch
+\tab \'95\tab Al avanzar por el mapa puede encontrarse un monstruo aleatorio (ver apartado monstruos /aleatorios).}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li720\ri304\lin720\rin304\fi0{\rtlch \ltrch\loch
+\tab \'95\tab Puertas ocultas, deber\'e1n de descubrir c\'f3mo se abre (ver apartado pruebas /ciberseguridad)}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li336\ri304\lin336\rin304\fi0\sb0\sa160{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li336\ri304\lin336\rin304\fi0\sb0\sa160{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li336\ri304\lin336\rin304\fi0\sb0\sa160{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li336\ri304\lin336\rin304\fi0\sb0\sa160{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li336\ri304\lin336\rin304\fi0\sb0\sa160{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li336\ri304\lin336\rin304\fi0\sb0\sa160{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li336\ri304\lin336\rin304\fi0\sb0\sa160{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li336\ri304\lin336\rin304\fi0\sb0\sa160{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li336\ri304\lin336\rin304\fi0\sb0\sa160{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li336\ri304\lin336\rin304\fi0\sb0\sa160{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li336\ri304\lin336\rin304\fi0\sb0\sa160{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li336\ri304\lin336\rin304\fi0\sb0\sa160{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li336\ri304\lin336\rin304\fi0\sb0\sa160{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li336\ri304\lin336\rin304\fi0\sb0\sa160{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li336\ri304\lin336\rin304\fi0\sb0\sa160{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li336\ri304\lin336\rin304\fi0\sb0\sa160{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li336\ri304\lin336\rin304\fi0\sb0\sa160{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li336\ri304\lin336\rin304\fi0\sb0\sa160{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li336\ri304\lin336\rin304\fi0\sb0\sa160{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa343{\b\hich\af6\dbch\af6\afs50\ab\rtlch \ltrch\loch\fs50\loch\f6
+\tab \tab \tab \tab \tab Cap\'edtulo IV}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb0\sa432{\rtlch \ltrch\loch
+Objetos}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li720\ri833\lin720\rin833\fi0\sb0\sa281{\b\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+\tab \'95\tab Puertas}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\rtlch \ltrch\loch
+-\tab Para realizar la apertura de puertas deber\'e1n encontrar el reto yincana ( ver apartado pruebas, tantas pruebas como puertas en el mapa) para conseguir la clave que abra la puerta. }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li720\ri833\lin720\rin833\fi0\sb0\sa281{\b\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+\tab \'95\tab Puertas Ocultas}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\rtlch \ltrch\loch
+-\tab Primero deber\'e1n de encontrar las puertas ocultas(depende del mapa).}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\rtlch \ltrch\loch
+-\tab Segundo deber\'e1n superar la prueba para conseguir el c\'f3digo (ver apartado ciberseguridad).}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li720\ri833\lin720\rin833\fi0\sb0\sa281{\b\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+\tab \'95\tab Cajones}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\rtlch \ltrch\loch
+-\tab Siempre habr\'e1 el mismo n\'famero de cajones que de grupo de jugadores}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\rtlch \ltrch\loch
+-\tab Primero deber\'e1n encontrar los cajones.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\rtlch \ltrch\loch
+-\tab Segundo deber\'e1n conseguir el c\'f3digo (ver apartado de ciberseguridad)}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\rtlch \ltrch\loch
+-\tab Recompensa ser\'e1 siempre la misma una ficha de -3 para la tirada de suerte al enfrentarse al mounstro final.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li720\ri833\lin720\rin833\fi0\sb0\sa281{\b\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+\tab \'95\tab Cofres}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\rtlch \ltrch\loch
+-\tab Primero deber\'e1n encontrar los cofres ocultos por el mapa( la mitad de cofres que de cajones).}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\rtlch \ltrch\loch
+-\tab Segundo deber\'e1n conseguir el c\'f3digo (ver apartado de ciberseguridad).}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\rtlch \ltrch\loch
+-\tab Recompensa (ver apartado objetos maravilloso).                                                                }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\b\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\f6
+ }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\b\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\b\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\b\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\b\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\b\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li2880\ri833\lin2880\rin833\fi0\sb0\sa281{\b\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+\tab \'95\tab Objetos maravillosos}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\b\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+-\tab }{\rtlch \ltrch\loch
+Tirar los dados para ver suerte (1D8), todos son de un solo uso.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\rtlch \ltrch\loch
+-\tab De 0 a 4}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\rtlch \ltrch
+ }{\rtlch \ltrch\loch
+\tab -\tab Anillo de calor: Mientras llevas puesto este anillo, tienes resistencia al da\'f1o por frio.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\rtlch \ltrch
+ }{\rtlch \ltrch\loch
+\tab -\tab Abanico de Viento: Mientras sujetas el abanico puedes lanzar el conjuro R\'e1faga de viento (congela al objetivo un turno).}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\rtlch \ltrch
+ }{\rtlch \ltrch\loch
+\tab -\tab Amuleto contra detecci\'f3n: Te da invisibilidad durante un turno.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\rtlch \ltrch
+ }{\rtlch \ltrch\loch
+\tab -\tab  Anillo Mental: Mientras lo llevas puesto puedes leer la mente en respuesta a una pregunta del Dungeon Master.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\rtlch \ltrch\loch
+- \tab De 5 a 8}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\rtlch \ltrch
+ }{\rtlch \ltrch\loch
+\tab -\tab  Amuleto de los planos: Da la posibilidad de conocer la localizaci\'f3n de cofre en caso de que haya.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\rtlch \ltrch
+ }{\rtlch \ltrch\loch
+\tab -\tab Bolsa de habichuelas: dentro de la bolsa hay habichuelas m\'e1gicas, al vaciar la bolsa en el suelo destruye al objetivo que haya alrededor.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\rtlch \ltrch
+ }{\rtlch \ltrch\loch
+\tab -\tab Capa Ar\'e1cnida: inmoviliza a un objetivo durante dos turnos.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\rtlch \ltrch
+ }{\rtlch \ltrch\loch
+\tab -\tab Cuerda de Enga\'f1ar: el objetivo hace lo contrario de lo que dice durante dos turno.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\rtlch \ltrch\loch
+Pruebas}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\b\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+Gincanas}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\rtlch \ltrch\loch
+Encuentra la llave para abrir la puerta de 42.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\rtlch \ltrch\loch
+El gato guia de 42: hab\'e9is llegado hasta las puertas de entrada a vuestra segunda casa, pero no estar\'e9is solo a partir de aqu\'ed yo sere vuestra alma gu\'eda que os acompa\'f1ara para evitar que mur\'e1is.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\rtlch \ltrch\loch
+1. Lo primero que ten\'e9is que hacer es entrar as\'ed que empezad a buscar la manera, lo \'fanico que yo se es que yo he aparecido aqu\'ed renacido en gato tumbado al sol y recuerdo lo bueno que estaba el cafe.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\rtlch \ltrch\loch
+2. Lo primero que ten\'e9is que hacer es entrar as\'ed que empezad a buscar la manera, \'a1 ah con bien y fresquito que estaba yo en verano bajo el!.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\rtlch \ltrch\loch
+3. Lo primero que ten\'e9is que hacer es entrar as\'ed que empezad a buscar la manera, aun me acuerdo del d\'eda de mmi muerte como si fuese ayer e Iva caminando por la calle y algo me dio.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\rtlch \ltrch\loch
+4. Lo primero que ten\'e9is que hacer es entrar as\'ed que empezad a buscar la manera, aun recuerdo eso d\'edas en que nevaba en la madre patria y bebimos para calentarnos no como aqu\'ed que hace calor incluso en invierno.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\rtlch \ltrch\loch
+5. Lo primero que ten\'e9is que hacer es entrar as\'ed que empezad a buscar la manera, lo que mas me molesta de ser gato son las ganas que tengo de jugar con una bola.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\rtlch \ltrch\loch
+En estos sitios se pondr\'e1 un c\'f3digo con la palabra }{\afs28\rtlch \ltrch\loch\fs28
+Menlo (amigo en elfico), migo (amigo en minion)}{\rtlch \ltrch\loch
+, }{\cf3\hich\af9\dbch\af9\afs28\rtlch \ltrch\loch\fs28\loch\f9
+jup ghaH jagh jagh'e' (amigo en Klingon), Raquiros (alto Valirio),  narujiwenipo (idioma de los sims), }{\kerning1\rtlch \ltrch\loch
+ }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+pruebas de c\'f3digo}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li0\ri833\lin0\rin833\fi0\sb0\sa281{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+Escribe un programa que pida un n\'famero entero,}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li0\ri833\lin0\rin833\fi0\sb0\sa281{\kerning1\rtlch \ltrch
+ }{\kerning1\rtlch \ltrch\loch
+conteste al usuario: \'93Has introducido el numero (x), gracias\'94}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li0\ri833\lin0\rin833\fi0\sb0\sa281{\kerning1\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li0\ri833\lin0\rin833\fi0\sb0\sa281{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+Escribe un programa que pregunte al usuario cu\'e1ntos a\'f1os tiene}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li0\ri833\lin0\rin833\fi0\sb0\sa281{\kerning1\rtlch \ltrch\loch
+Conteste al usuario: \'93Ahora s\'e9 que tienes (x) a\'f1os, gracias\'94.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li0\ri833\lin0\rin833\fi0\sb0\sa281{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+C\'e1lculo de precios con descuento}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li0\ri833\lin0\rin833\fi0\sb0\sa281{\kerning1\rtlch \ltrch
+ }{\kerning1\rtlch \ltrch\loch
+Escribe un programa que pregunte el precio, el tanto por ciento de descuento, y te diga el precio con descuento. }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li0\ri833\lin0\rin833\fi0\sb0\sa281{\kerning1\rtlch \ltrch\loch
+Por ejemplo, si el precio que introduce el usuario es 300 y el descuento 20, el programa dir\'e1 que el precio final con descuento es de 240.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li0\ri833\lin0\rin833\fi0\sb0\sa281{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+C\'e1lculo de \'e1rea y per\'edmetro}{\kerning1\rtlch \ltrch\loch
+ }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li0\ri833\lin0\rin833\fi0\sb0\sa281{\kerning1\rtlch \ltrch\loch
+Escribe un programa que pregunte al usuario los dos lados de un rect\'e1ngulo y presente por pantalla el c\'e1lculo del per\'edmetro (}{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+suma de los lados}{\kerning1\rtlch \ltrch\loch
+) y el \'e1rea (}{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+base por altura}{\kerning1\rtlch \ltrch\loch
+).}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li0\ri833\lin0\rin833\fi0\sb0\sa281{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+Pasar de d\'edas a horas}{\kerning1\rtlch \ltrch\loch
+. }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li0\ri833\lin0\rin833\fi0\sb0\sa281{\kerning1\rtlch \ltrch\loch
+Escribe un programa que pida al usuario los siguientes datos: d\'edas. Y le conteste con la cantidad de horas totales que son esos datos.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li0\ri833\lin0\rin833\fi0\sb0\sa281{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+Pruebas de ciberseguridad}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li0\ri833\lin0\rin833\fi0\sb0\sa281{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+Descifrar un c\'f3digo}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li0\ri833\lin0\rin833\fi0\sb0\sa281{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+\tab Parte uno}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li0\ri833\lin0\rin833\fi0\sb0\sa281{\kerning1\rtlch \ltrch\loch
+Descifrar el siguiente c\'f3digo que se escribir\'e1 en una hoja de google docs, en el ordenador de la persona designada para ciber seguridad para encontrar las instrucciones de en que lugar se encuentra el c\'f3digo de la taquilla. }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li0\ri833\lin0\rin833\fi0\sb0\sa281{\kerning1\rtlch \ltrch\loch
+tu taquilla esta a la izquieeda de 21 y encima de la 31}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li0\ri833\lin0\rin833\fi0\sb0\sa281{{\*\bkmkstart __DdeLink__0_747450972}\kerning1\rtlch \ltrch\loch{\*\bkmkend __DdeLink__0_747450972}
+https://gchq.github.io/CyberChef/#recipe=RC4(%7B'option':'Latin1','string':''%7D,'Latin1','Base64')To_Hexdump(16,false,false,true)From_Hexdump()&input=CnR1IHRhcXVpbGxhIGVzdGEgYSBsYSBpenF1aWVlZGEgZGUgMjEgeSBlbmNpbWEgZGUgbGEgMzE}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li0\ri833\lin0\rin833\fi0\sb0\sa281{\kerning1\rtlch \ltrch\loch
+El resultado es }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li0\ri833\lin0\rin833\fi0\sb0\sa281{\kerning1\rtlch \ltrch\loch
+1Gz8YddWLE/janIGdwvhGaY6HoOcrcv+P1o4W0LzO/+IqBAnX66ZvGEfy6hZkUM571G4QdpCrfE=}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li0\ri833\lin0\rin833\fi0\sb0\sa281{\kerning1\rtlch \ltrch\loch
+Que seria la clave a desencriptar}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li0\ri833\lin0\rin833\fi0\sb0\sa281{\kerning1\rtlch \ltrch\loch
+\tab }{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+Parte dos}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li0\ri833\lin0\rin833\fi0\sb0\sa281{\kerning1\rtlch \ltrch\loch
+Para encontrar el numero de taquilla se deber\'e1 encontrar el QR correcto que te dar\'e1 una combinaci\'f3n de n\'fameros que al pasarlo por un compilador de n\'fameros}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li0\ri833\lin0\rin833\fi0\sb0\sa281{\kerning1\rtlch \ltrch
+ }{\kerning1\rtlch \ltrch\loch
+https://www.dcode.fr/rango-alfabetico}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li0\ri833\lin0\rin833\fi0\sb0\sa281{\kerning1\rtlch \ltrch\loch
+El coding es 2221}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li0\ri833\lin0\rin833\fi0\sb0\sa281{\kerning1\rtlch \ltrch\loch
+23;16;0;25;13;24;19;21;13;0;23;9;0;2;2;2;1;}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li0\ri833\lin0\rin833\fi0\sb0\sa281{\kerning1\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\kerning1\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\kerning1\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\kerning1\rtlch \ltrch\loch
+https://qrfy.com/my-qr-codes}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+Descifrar la imagen}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\cf1\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri2165\lin579\rin2165\fi0\sb0\sa281{\kerning1\rtlch \ltrch\loch
+https://qrfy.com/my-qr-codes}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri2165\lin579\rin2165\fi0\sb0\sa281{\kerning1\rtlch \ltrch\loch
+Encontrar el c\'f3digo relacionado con la imagen dentro de la pagina web que en este caso es The Legend of Zelda.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri2165\lin579\rin2165\fi0\sb0\sa281{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+Descifra el c\'f3digo SSH}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri2165\lin579\rin2165\fi0\sb0\sa281{\kerning1\rtlch \ltrch\loch
+https://overthewire.org/wargames/bandit/bandit0.html}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri2165\lin579\rin2165\fi0\sb0\sa281{\kerning1\rtlch \ltrch\loch
+Connectate usando SSH al host de}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri2165\lin579\rin2165\fi0\sb0\sa281{\kerning1\rtlch \ltrch
+ }{\cf1\hich\af11\dbch\af11\afs32\rtlch \ltrch\loch\fs32\loch\f11
+bandit.labs.overthewire.org}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri2165\lin579\rin2165\fi0\sb0\sa281{\cf1\hich\af11\dbch\af11\afs32\rtlch \ltrch\loch\fs32\loch\f11
+Usando el puerto 2220}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\cf1\hich\af11\dbch\af11\afs32\rtlch \ltrch\loch\fs32\loch\f11
+The username is\~ }{\cf1\b\hich\af8\dbch\af8\afs32\ab\rtlch \ltrch\loch\fs32\loch\f8
+bandit0}{\cf1\hich\af11\dbch\af11\afs32\rtlch \ltrch\loch\fs32\loch\f11
+\~ and the password is\~ }{\cf1\b\hich\af8\dbch\af8\afs32\ab\rtlch \ltrch\loch\fs32\loch\f8
+bandit0}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri2165\lin579\rin2165\fi0\sb0\sa281{\cf1\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\cf1\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc\li1440\ri0\lin1440\rin0\fi0{\kerning1\rtlch \ltrch\loch
+\tab \'95\tab Monstruos  }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Aberraci\'f3n}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Las aberraciones son seres en extremo an\'f3malos y extra\'f1os Muchos poseen habilidades m\'e1gicas que se originan en sus mentes an\'f3malas y no en las fuerzas m\'edsticas de la naturaleza.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Bestia}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Las bestias son todos los animales no-humanoides que son parte del mundo natural. Algunos podr\'edan poseer ciertos poderes m\'e1gicos, pero la gran mayor\'eda no poseen ni inteligencia, ni organizaci\'f3n social ni lenguaje. Dentro del tipo \'93bestia\'94 se incluyen todos los animales conocidos, incluso dinosaurios o versiones gigantes de animales normales.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Celestial}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Los celestiales son seres nativos de los Planos Superiores. Muchos son sirvientes de las deidades como mensajeros o agentes en el mundo mortal o en otros planos. Los celestiales son buenos por naturaleza as\'ed que el celestial que se desv\'eda de la alineaci\'f3n ben\'e9fica es una horrible rareza. Entre los celestiales est\'e1n: \'e1ngeles, cou\'e1tles y pegasos.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Construcci\'f3n}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Una construcci\'f3n es hecha no nacida. Algunos son programados para seguir instrucciones sencillas, mientras otros son capacitados con inteligencia y conciencia propias. Los golems son las construcciones m\'e1s ic\'f3nicas. Muchos seres nativos de Mechanus, tales como los modrones, son construcciones creadas de la materia pura de ese plano por la voluntad de poderosos seres.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Drag\'f3n}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Los dragones son seres de or\'edgenes ancestrales y temibles poderes. Los dragones verdaderos, que incluye a los dragones met\'e1licos ben\'e9ficos y los dragones crom\'e1ticos malignos, son seres de gran inteligencia y capacidades m\'e1gicas innatas. Dentro de esta categor\'eda se incluyen seres relacionados con los verdaderos dragones pero menos poderosos, inteligentes y m\'e1gicos tales como guivernos, y pseudodragones}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Elemental}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Los Elementales son seres nativos de las planos elementales. Algunos son simples masas animadas de sus respectivos elementos, los elementales simples. Otros poseen energ\'eda elemental influ\'edda en su forma biol\'f3gica. Las razas de genios, incluyendo los jinn y los efrit, forman las m\'e1s importantes civilizaciones del Plano Elemental. Otros seres elementales son: azeres, acechadores invisibles y aguararas}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Hada}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Las hadas son seres m\'e1gicos fuertemente ligados a las fuerzas de la naturaleza. Viven en las grutas oscuras y los bosques nuboso. En otras palabras, est\'e1n fuertemente relacionados al Plano de Faerie. Algunos tambi\'e9n se encuentran en los Planos Exteriores, particularmente en Arb\'f3rea y Bestialia. Las hadas incluyen: Dr\'edades, pixis y s\'e1tiros.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Fel\'f3n}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Los felones son seres retorcidos de los Planos Inferiores. Algunos son sirvientes de deidades, pero muchos laboran para archidiablos y pr\'edncipes demon\'edacos. Sacerdotes malignos y magos en ocasiones invocan felones al mundo material para pedirles favores. Si un celestial maligno es una rareza, un fel\'f3n bueno es casi inconcebible. Los felones incluyen: demonios, diablos, perros infernales, rakshasas y yugolotes.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Gigante}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Los gigantes son humanoides de tama\'f1os extremos, pueden poseer m\'faltiples cabezas como los etinos o deformidades como los fomorianos. Existen seis variedades principales de gigantes verdaderos: gigantes de monta\'f1a, de piedra, de fr\'edo, de fuego, de nube y de tormenta. Adem\'e1s, otros como ogros y troles son tambi\'e9n gigantes.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Humanoide}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Los humanoides son los principales seres del mundo de fantas\'eda, pueden ser civilizados o salvajes. \~ Poseen lenguaje y cultura, muy pocos nacen con habilidades m\'e1gicas, aunque la mayor\'eda puede aprender magia, todos son bipedales. Las razas m\'e1s comunes son las m\'e1s adecuadas para los jugadores: humanos, enanos, elfos y medianos.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Goblinoide}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Los goblinoides son seres que existen en grandes n\'fameros, son muy salvajes, brutales y usualmente malignos. Las razas goblinoides son: duende, hobgoblin, bugbear, orco, gnoll, lizardfolk y kobol.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Monstruosidad}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Las monstruosidades son en sentido estricto los verdaderos \'93monstruos\'94, seres temibles, fuera de lo com\'fan, de lo natural y casi nunca benignos. Algunos son resultado de fallos en la experimentaci\'f3n m\'e1gica, otros productos de terribles maldiciones como los minotauros y los yuan-ti. \~ Las monstruosidades desaf\'edan toda explicaci\'f3n y su categor\'eda se utiliza para cualquier ser que no pueda ser inclu\'eddo en otros tipos.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Viscoso}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Los viscosos son seres gelatinosos que rara vez tiene forma fija. Son usualmente subterr\'e1neos, viven en cuevas y mazmorras aliment\'e1ndose de basura, carro\'f1a, y seres desgraciados que tengan la mala suerte de topar con ellos. Los pudines negros y los cubos gelatinosos son los m\'e1s comunes viscosos.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Plantas}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Las plantas en este contexto son seres vegetal extraordinarios. La mayor\'eda son ambulatorios y algunos carn\'edvoros. Las plantas m\'e1s conocidas son las mara\'f1as y los treant. Seres fungosos como el gas de esporas y los mic\'f3nidos caen en esta categor\'eda.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+NoMuerto}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Los no-muertos fueron alguna vez seres vivos, arrastrados a un horrible estado de no-muerte por medio de pr\'e1cticas necrom\'e1nticas o alguna maldici\'f3n imp\'eda. Los no-muertos incluyen cad\'e1veres andantes, como vampiros y zombis, tambi\'e9n esp\'edritus sin cuerpos como fantasmas y espectros.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb131\sa0{\cf2\kerning1\afs22\rtlch \ltrch\loch\fs22
+El tama\'f1o de un monstruo determina el dado utilizado para calcular sus puntos de golpe como se indica en la tabla.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\cf2\kerning1\afs22\rtlch \ltrch\loch\fs22
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\b\kerning1\hich\af13\dbch\af13\afs20\ab\rtlch \ltrch\loch\fs20\loch\f13
+Tama\'f1o}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\b\kerning1\hich\af13\dbch\af13\afs20\ab\rtlch \ltrch\loch\fs20\loch\f13
+HP}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\b\kerning1\hich\af13\dbch\af13\afs20\ab\rtlch \ltrch\loch\fs20\loch\f13
+Promedio por dado (aprox.)}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Diminuto}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+d4}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+2\'bd}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Peque\'f1o}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+d6}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+3\'bd}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Mediano}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+d8}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+4\'bd}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Grande}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+d10}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+5\'bd}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Enorme}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+d12}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+6\'bd}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+Gigantesco}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+d20}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc\li160\ri160\lin160\rin160\fi0\sb160\sa160{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+10\'bd}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\cf5\kerning1\hich\af12\dbch\af12\afs20\rtlch \ltrch\loch\fs20\loch\f12
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb218\sa0{\cf1\b\kerning1\hich\af6\dbch\af6\afs38\ab\rtlch \ltrch\loch\fs38\loch\f6
+Sentidos}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb131\sa0{\cf2\kerning1\afs22\rtlch \ltrch\loch\fs22
+La descripci\'f3n de los sentidos indica la percepci\'f3n pasiva (Sabidur\'eda) del monstruo, adem\'e1s de describir cualquier otro sentido especial que el monstruo posea. Los sentidos especiales son:}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc\sb175\sa0{\cf2\b\kerning1\hich\af6\dbch\af6\afs2\ab\rtlch \ltrch\loch\fs2\loch\f6
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc\sb175\sa0{\cf2\b\kerning1\hich\af6\dbch\af6\afs2\ab\rtlch \ltrch\loch\fs2\loch\f6
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb175\sa0{\cf2\b\kerning1\hich\af6\dbch\af6\afs30\ab\rtlch \ltrch\loch\fs30\loch\f6
+Vista ciega}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb131\sa0{\cf2\kerning1\afs22\rtlch \ltrch\loch\fs22
+Una criatura con vista ciega puede percibir lo que le rodea sin recurrir a la vista, dentro del radio indicado.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb131\sa0{\cf2\kerning1\afs22\rtlch \ltrch\loch\fs22
+Criaturas sin ojos, como los grimorloks y cienos grises, t\'edpicamente tienen este sentido especial, como las criaturas con ecolocaci\'f3n o agudisimos sentidos, como murci\'e9lagos y dragones aut\'e9nticos.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb131\sa0{\cf2\kerning1\afs22\rtlch \ltrch\loch\fs22
+Si el monstruo es ciego esto se indica y significa que su Vista Ciega es el m\'e1ximo rango de su percepci\'f3n.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc\sb175\sa0{\cf2\b\kerning1\hich\af6\dbch\af6\afs2\ab\rtlch \ltrch\loch\fs2\loch\f6
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc\sb175\sa0{\cf2\b\kerning1\hich\af6\dbch\af6\afs2\ab\rtlch \ltrch\loch\fs2\loch\f6
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb175\sa0{\cf2\b\kerning1\hich\af6\dbch\af6\afs30\ab\rtlch \ltrch\loch\fs30\loch\f6
+Visi\'f3n en la oscuridad}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb131\sa0{\cf2\kerning1\afs22\rtlch \ltrch\loch\fs22
+Una criatura con visi\'f3n en la oscuridad puede ver en la oscuridad dentro de un radio espec\'edfico.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb131\sa0{\cf2\kerning1\afs22\rtlch \ltrch\loch\fs22
+Una criatura podr\'e1 ver en luz tenue dentro de un radio espec\'edfico como si fuese luz brillante y en la oscuridad como si se tratase de luz tenue. No se puede discernir colores en la oscuridad, solo tonos de gris. Muchas criaturas que moran bajo tierra tienen visi\'f3n en la oscuridad.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc\sb175\sa0{\cf2\b\kerning1\hich\af6\dbch\af6\afs2\ab\rtlch \ltrch\loch\fs2\loch\f6
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc\sb175\sa0{\cf2\b\kerning1\hich\af6\dbch\af6\afs2\ab\rtlch \ltrch\loch\fs2\loch\f6
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb175\sa0{\cf2\b\kerning1\hich\af6\dbch\af6\afs30\ab\rtlch \ltrch\loch\fs30\loch\f6
+Sentido de vibraci\'f3n}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb131\sa0{\cf2\kerning1\afs22\rtlch \ltrch\loch\fs22
+Un monstruo con sentido de vibraci\'f3n puede detectar y discernir el origen de una vibraci\'f3n dentro de un radio espec\'edfico.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb131\sa0{\cf2\kerning1\afs22\rtlch \ltrch\loch\fs22
+Este sentido requiere el contacto directo con la superficie que transmite la vibraci\'f3n y no se puede utilizar para detectar seres incorp\'f3reos o voladores.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb131\sa0{\cf2\kerning1\afs22\rtlch \ltrch\loch\fs22
+Monstruos con capacidades de excavar usualmente tienen esta habilidad.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc\sb175\sa0{\cf2\b\kerning1\hich\af6\dbch\af6\afs2\ab\rtlch \ltrch\loch\fs2\loch\f6
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc\sb175\sa0{\cf2\b\kerning1\hich\af6\dbch\af6\afs2\ab\rtlch \ltrch\loch\fs2\loch\f6
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb175\sa0{\cf2\b\kerning1\hich\af6\dbch\af6\afs30\ab\rtlch \ltrch\loch\fs30\loch\f6
+Visi\'f3n verdadera}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb131\sa0{\cf2\kerning1\afs22\rtlch \ltrch\loch\fs22
+Una criatura con visi\'f3n verdadera pueden ver todo en su forma original, independiente del entorno.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb131\sa0{\cf2\kerning1\afs22\rtlch \ltrch\loch\fs22
+Una criatura con visi\'f3n verdadera puede, en un alcance espec\'edfico, ver en la oscuridad normal y m\'e1gica, ver criaturas y objetos invisibles, autom\'e1ticamente detectan ilusiones visuales y autom\'e1ticamente tienen \'e9xito en las salvaciones contra ellas y perciben la forma original de los cambiaformas o criaturas que fuesen transformadas por la magia.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb131\sa0{\cf2\kerning1\afs22\rtlch \ltrch\loch\fs22
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb131\sa0{\cf2\kerning1\afs22\rtlch \ltrch\loch\fs22
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb131\sa0{\cf2\kerning1\afs22\rtlch \ltrch\loch\fs22
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\sb131\sa0{\cf2\kerning1\afs22\rtlch \ltrch\loch\fs22
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc{\kerning1\rtlch \ltrch\loch
+Mapa}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+Recepci\'f2n}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+Primera planta}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\kerning1\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\kerning1\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\kerning1\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\kerning1\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\kerning1\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\kerning1\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li579\ri833\lin579\rin833\fi0\sb0\sa281{\kerning1\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc{\kerning1\rtlch \ltrch\loch
+Historia}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\f6
+\'93}{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+La jaula de la voluntad de hierro\'94}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+Hace dos a\'f1os, llego a las instalaciones de 42 Malaga una malvada hechicera conocida como }{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+@Sweme.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch
+ }{\kerning1\rtlch \ltrch\loch
+Haci\'e9ndose pasar por estudiante de 42 M\'e1laga, paso la piscina, y aprendi\'f3 todos los conocimientos necesarios para avanzar en su plan maestro de }{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+CONQUISTAR 42.}{\kerning1\rtlch \ltrch\loch
+ Para hacerse as\'ed con el poder de los }{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+Staff}{\kerning1\rtlch \ltrch\loch
+ .}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+Controlando las vidas y martirizar con fotos y reportajes diarios de todos los }{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+estudiantes!!!!!!!}{\kerning1\rtlch \ltrch\loch
+ , para  publicarlos en su cuenta de instagram y as\'ed convertirse en }{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+La Gran Administradora,}{\kerning1\rtlch \ltrch\loch
+ dominar las redes con pu\'f1o de hierro y atraer a m\'e1s estudiantes, para seguir consiguiendo mas y mas fotograf\'edas y reportajes con el motivo final de conquistar todos los 42 de Espa\'f1a!!!!!! Y ser }{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+ la MAYOR HECHICERA INFLUENCER DE MALAGA}{\kerning1\rtlch \ltrch\loch
+.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+Un d\'eda ya anocheciendo, durante sus estudios la infame hechicera observaba el cielo nocturno, m\'e1s en concreto ciertas estrellas oscuras cuyos movimientos profetizaban calamidades y seg\'fan sus teor\'edas, podr\'edan otorgarle el poder m\'e1gico necesario para dominarlos a todos.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+Sin embargo al intentar canalizar la energ\'eda de las estrellas }{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+@sweme }{\kerning1\rtlch \ltrch\loch
+abri\'f3 accidentalmente un portal al }{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+Abismo Oscuro }{\kerning1\rtlch \ltrch\loch
+y libero una marea de demonios que r\'e1pidamente se hicieron con el lugar, teniendo que lanzarse a s\'ed misma un conjuro ancestral de esp\'edritu,\'94segmentation fault\'94 el cual le permiti\'f3 escapar dejando lo atr\'e1s,  atormentado y con solo parte de sus recuerdos intactos.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+Obviando por completo esto, se dio cuenta que el primero de sus staff retenido aun permanec\'eda dentro de la jaula de staff, conocida actualmente por el sobre nombre de }{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+LA JAULA DE LA VOLUNTAD DE HIERRO}{\kerning1\rtlch \ltrch\loch
+ y que si quer\'eda recuperarlo, deber\'eda enga\'f1ar a un nuevo grupo de valerosos estudiantes para que hicieran el trabajo por ella.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li5040\ri0\lin5040\rin0\fi0{\kerning1\rtlch \ltrch\loch
+\tab \'95\tab Llegada}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+Al llegar por la ma\'f1ana est\'e1is solos en la plaza, hace sol y os calienta, aunque la temperatura no es la mejor, el ambiente es raro a pesar de esto, hay algo que no os cuadra, que no es natural.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+Al frente veis las escaleras con el c\'e9sped a la izquierda, un poco dejado con la hierba crecida y un gato tumbado sobre el al sol.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+Al acercaros a la puerta esa luz que tanto os gustaba, se va oscureciendo y tomando un color cobrizo, el gato que antes estaba tumbado se acerca a vosotros despacio, con pintas de querer que lo acaricien pero con un aire de desconfianza, al tenerlo al vuestro lado se sienta, os mira fijamente y os dice \'93MIAU, no pensareis entrar simples entes vac\'edas?\'94 a lo que respond\'e9is que \'93si\'94 con cara de incr\'e9dulos, y un movimiento de cabeza r\'e1pido. A lo cual responde \'93 Pues no durareis mucho, seguro de que antes de que anochezca y salga }{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+@sweme}{\kerning1\rtlch \ltrch\loch
+ hab\'e9is muerto, MIAU\'94 }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+Puerta}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\kerning1\rtlch \ltrch\loch
+Empuj\'e1is la puerta corrediza hacia los lados, pero a vuestra sorpresa esta no se mueve, es mas cambia de color, parece una roca lisa, con aspecto de antigua, m\'e1s que un cristal, y va apareciendo como unas manchas, c\'edrculos, l\'edneas en color un oscuro y oxidado, al apartaros pod\'e9is leer \'93DI AMIGO Y ENTRA\'94 (explicaci\'f3n de yincana, primera yincana)}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\kerning1\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+Recepci\'f3n}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+Entr\'e1is en la recepci\'f3n y todo est\'e1 donde lo recordabais, pero con un cambio importante, todo est\'e1 sucio, enmohecido ara\'f1ado, algunas luces no funcionan, otras parpadean, hay un olor muy fuerte como a un animal en estado de putrefacci\'f3n aunque a primera vista no veis nada as\'ed.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\kerning1\rtlch \ltrch\loch
+Todas las puertas est\'e1n cerradas.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+Cajones}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+Tras la }{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+mesa}{\kerning1\rtlch \ltrch\loch
+ de recepci\'f3n hay (X) caj\'f3n, las }{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+taquillas}{\kerning1\rtlch \ltrch\loch
+ de los conserjes hay (X) caj\'f3n, debajo de la }{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+escalera}{\kerning1\rtlch \ltrch\loch
+ hay (X) caj\'f3n, se abren con retos de ciberseguridad.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+Usar 1D20 para suerte.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+Puerta oculta}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+El ascensor es una puerta oculta para abrirlo tienes que resolver un reto de ciberseguridad.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+Usar 1D20 para suerte.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+Ascensor}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+Tras conseguir abrir las puertas veis que las luces parpadean y parece que se ha ca\'eddo a plomo desde la primera planta, todo est\'e1 cubierto de un color rojo y un color nauseabundo, hay un trabajador dentro mir\'e1is sus ropas y si lo reconoc\'e9is pero no lo hac\'e9is ya que normalmente solo les dec\'eds hola y adi\'f3s \'93insensibles, de esto no va 42\'94 veis que ocurri\'f3 mientras transportaba algo os acerc\'e1is y \'85.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+Rellano planta superior}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+al subir las escaleras empez\'e1is a ver qu\'e9 arriba es muy parecido que recepci\'f3n todo est\'e1 donde lo recordabais pero\'85..algo ha cambiado, las puertas est\'e1n cerradas \'bfQu\'e9 ha pasado? \'bfhabr\'e1 habido un incendio? Pero no huele a humo, sigue ese olor extra\'f1o y pegajoso,  las paredes est\'e1n ara\'f1adas y sucias\'85.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+Para entrar ten\'e9is que abrir las puertas, tira 1D20 para suerte de yincana.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+Puerta cl\'faster}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+Se deben de abrir con un reto de yincana, 1D20 para suerte.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+Rellano cl\'faster}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+Perooooo!!!!!!!, esto qu\'e9 es?? Ahora si veis cambios las paredes no son grises lisas por la pintura se ha ido solo se ve el ladrillo manchado de sangre, las puertas no est\'e1n las han arrancado y solo pod\'e9is ir hacia el lado derecho porque hay un muro que antes no estaba all\'ed un ruido de gritos os estremece, \'bfhay alguien en apuros?.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+Taquillas}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+En las taquillas hay cofres (X), la mitad que de cajones, el numero es limitado a los primeros (X) que los encuentren un equipo solo cojera dos de ellos en total como m\'e1ximo si llevan y deciden usar el }{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+amuleto de los planos.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+En la parte de enfrente muro, no hay nada interesante solo piedra desnuda a medio pintar del gris plomizo de las paredes de 42.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+Cl\'faster 3}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\kerning1\rtlch \ltrch\loch
+Avanz\'e1is por el pasillo, y veis la pared que antes era amarilla, digo antes porque ya no, todo est\'e1 oscuro, las luces no funcionan, los ordenadores est\'e1n todos por los suelos rotos y destrozados las mesas no son blancas , hay moho, y trozos de cables y agua cayendo desde el techo, el suelo esta ara\'f1ado!!! Las paredes y las ventanas tapadas, os pregunt\'e1is que extra\'f1o!!!, quien ha podido hacer todo esto?? Que ha pasado aqu\'ed en realidad??.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\kerning1\rtlch \ltrch\loch
+Toda la parte de coworking, esta amontonada en los laterales como si alguien pasara a diario por all\'ed con un camino central despejado \'93}{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+el sitio perfecto para una emboscada\'94}{\kerning1\rtlch \ltrch\loch
+, las literas rotas, los colchones rajado y llenos de una sustancia marr\'f3n oscura, y os preguntareis, marr\'f3n oscura?? De que porque??, aqu\'ed falta algo que ser\'e1? Cada vez todo es m\'e1s oscuro ya que esta cayendo la tarde, y una niebla espesa empieza a entrar por las ventanas rotas, y al volveros os fij\'e1is que no pod\'e9is avanzar.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+Las duchas \'93el duchagate\'94}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\kerning1\rtlch \ltrch\loch
+Para abrirla ten\'e9is que resolver un reto de ciberseguridad, tirad 1D20 para ver suerte.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\kerning1\rtlch \ltrch\loch
+Hab\'e9is encontrado una zona oculta, quiz\'e1s no la hab\'e9is pasado por alto, o quiz\'e1s no est\'e1is acostumbrados a ellas, est\'e1n oscuras sin luz pero se escucha el caer del agua, y el vapor del agua caliente como sale de las tuber\'edas, entre tanto vapor escuch\'e1is ruidos de un animal comiendo, ruidos secos y ag\'f3nicos de falta de respiraci\'f3n, que sale del fondo de la habitaci\'f3n, en las paredes hay marcas de manos grandes y alargadas como que arrastran desde el techo hasta el suelo y a lo largo de ella. (}{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+criatura viscoso \'93pudding negro, ver descripci\'f3n\'94 con atributo de sentido de vista ciega y de la vibraci\'f3n por el agua derramada en el suelo OJO!!!}{\kerning1\rtlch \ltrch\loch
+) es un personaje deforme, rechoncho y con movimientos torpes, los brazos le llegan hasta por debajo de la cintura y al moverse parece gelatina tiene un olor a barro mojado, perro viejo a medio secar que los abarca e inunda todo, no os ve pero al moveros gira su cabeza como queriendo escuchar algo diferente o centrarse en un sonido }{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+tirar 1D20 para suerte desaf\'edo de ciberseguridad y de programaci\'f3n}{\kerning1\rtlch \ltrch\loch
+, }{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+al morir}{\kerning1\rtlch \ltrch\loch
+ justo detr\'e1s del veis lo que parece un cofre de madera oscura con una cerradura dorada y cantidad de grabados en una letra extra\'f1a y medio roido, eso es lo que proteg\'eda. el DM tirara 1D4 para cada personaje del grupo en cada movimiento, el cofre solo se abre con ciberseguridad, tirar 1D20 para suerte de la prueba, 1D8 para contenido \'93objeto maravilloso\'94.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+Parte 2 cl\'faster 3}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\kerning1\rtlch \ltrch\loch
+Hay un muro nuevo que cierra el cl\'faster 2 a la izquierda con s\'edmbolos }{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+\'94letras r\'fanicas de protecci\'f3n, mas para evitar entrar para evitar salir}{\kerning1\rtlch \ltrch\loch
+\'94 y un \'e1rea central con ara\'f1azos que acaban de repente todos en el mismo lugar y otro muro en frente vuestra veis una nueva puerta que da paso a las zonas de literas del cl\'faster 1. }{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+\'93Para abrirla tirada de suerte de 1D20 desaf\'edo de ciberseguridad\'94.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+Cl\'faster 2}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+No descubrir la puerta oculta y abrir la puerta normal yincana 1D20 para suerte.}{\kerning1\rtlch \ltrch\loch
+ Continuar por cl\'faster 3.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\kerning1\rtlch \ltrch\loch
+Descubrir puerta oculta, debe abrirse con }{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+desaf\'edo de ciberseguridad 1D20 para suerte}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+I}{\kerning1\rtlch \ltrch\loch
+nterior:}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\kerning1\rtlch \ltrch\loch
+Nada m\'e1s entrar os encontr\'e1is con unos escalones de piedra, cubiertos de musgos y olor a humedad, la c\'e1mara est\'e1 a oscuras salvo por una tenue luz que os deja deslumbrar la forma de los posibles objetos que all\'ed encontr\'e9is, al avanzar por las escaleras y veis un altar con algo tumbado encima, sin movimiento ni respiraci\'f3n pero de gran volumen y medio descompuesto, que os mira con unos ojos peque\'f1os amarillo brillante que consegu\'eds ver incluso con la poca luz procedente de las peque\'f1as rendijas de las piedras con las que se tapiaron las ventanas.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\kerning1\rtlch \ltrch\loch
+Al avanzar hasta el ultimo escal\'f3n esa masa deforme se pone en pie y veis su piel casi podrida por la humedad y los gusanos que la devoran, su aspecto agresivo aunque voluminoso sus largas garras y no lleg\'e1is a verles los dientes pero supon\'e9is que tiene que tener \'93}{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+es un batidor criatura humanoide mediano con habilidad de visi\'f3n en la oscuridad, ve en la oscuridad como si fuese pleno d\'eda. Tira 1D20 para suerte desaf\'edo ciberseguridad y de programaci\'f3n y 1D4 para suerte de premio}{\kerning1\rtlch \ltrch\loch
+.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\kerning1\rtlch \ltrch\loch
+Al morir.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\kerning1\rtlch \ltrch\loch
+En el altar, sale una niebla espesa que no vuela solo se derrama por el suelo mostr\'e1ndoos un objeto oculto por magia de invisibilidad, es un cofre que deber\'e9is abrir con prueba de ciberseguridad tira 1D20 para suerte. Y tambi\'e9n veis una salida por donde se escapa la niebla y se nota la luz del atardecer al cruzar esa puerta sin clave os encontr\'e1is con una luz rojiza del atardecer procedente de los ventanales  del cl\'faster 1.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033{\kerning1\rtlch \ltrch\loch
+Cl\'faster 1 }{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+\'93se acerca el final\'94}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\kerning1\rtlch \ltrch\loch
+Una vez que os acostumbr\'e1is a la luz pod\'e9is ver que esa parte de 42 no ha cambiado apenas solo por el polvo acumulado en las mesas, las pantallas, teclado y ratones, las taquillas al fondo, \'93}{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+DENTRO DE UNA DE ELLAS HAY UN COFRE 1D20 desaf\'edo de ciberseguridad}{\kerning1\rtlch \ltrch\loch
+.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\kerning1\rtlch \ltrch\loch
+Las sillas est\'e1n algo desordenadas como si se hubiera vaciado todo corriendo por una emergencia o huyendo de algo pero no todo es como lo pintan, Joaqu\'edn esta en el centro de la habitaci\'f3n de pie mir\'e1ndoos con los ojos fijos concentrados en vosotros como si os estuviera escudri\'f1ando intentado diferenciaros de el resto de criaturas que os hab\'e9is encontrado por el camino.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\kerning1\rtlch \ltrch\loch
+Al acercaros os mira  m\'e1s detenidamente y os dice \'93}{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+SI, ESTO ES D&D Y YO HABLO NO CONFUND\'c1IS LA REALIDAD CON MI MUNDO, CUALQUIER COSA PARECIDA ES PRODUCTO DE TU IMAGINACI\'d3N\'94}{\kerning1\rtlch \ltrch\loch
+ @SWEME LA JOAQU\'cdN BUENA, }
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li720\ri0\lin720\rin0\fi0{\kerning1\rtlch \ltrch\loch
+\tab \'95\tab Hola chicos os estaba esperando, llevaba mucho tiempo aqu\'ed solo y fuera se oyen ruidos extra\'f1os.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li720\ri0\lin720\rin0\fi0{\kerning1\rtlch \ltrch\loch
+\tab \'95\tab He salido de la jaula de los staff saltando por encima de la valla \'93os recuerdo que soy un mono. Y dentro se han quedado todo tal y como estaba, bueno casi, hay cosas que antes no estaban all\'ed!!}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li720\ri0\lin720\rin0\fi0{\kerning1\rtlch \ltrch\loch
+\tab \'95\tab No s\'e9 qu\'e9 ha pasado solo s\'e9 que me despert\'e9 hace ya varias ma\'f1anas y estaba solo hasta ahora,}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li720\ri0\lin720\rin0\fi0{\kerning1\rtlch \ltrch\loch
+\tab \'95\tab  \'bfhab\'e9is venido a por m\'ed?}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li720\ri0\lin720\rin0\fi0{\kerning1\rtlch \ltrch\loch
+\tab \'95\tab Tengo un secreto: vosotros conoc\'e9is a la pel\'edcula de los caza fantasmas ?, pues creo que yo por las noches soy la bibliotecaria del principio.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li720\ri0\lin720\rin0\fi0{\kerning1\rtlch \ltrch\loch
+\tab \'95\tab Espero que si ten\'e9is algo escondido en las mangas que no hay\'e1is usado aun pod\'e1is usarlo para salvarme.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\kerning1\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\kerning1\rtlch \ltrch\loch
+Si han sido listos y prestado atenci\'f3n entraran en la jaula de los staff donde hay cofre oculto sin prueba, tira 1D8 para suerte.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\kerning1\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\kerning1\rtlch \ltrch\loch
+Toda esta charla era solo una estrategia para que la noche callera  y la @sweme buena termine de desvanecerse y Joaqu\'edn se abriera las costuras y saliera el esp\'edritu Shezaida la parte mala de @sweme un ente malvado producto del hechizo }{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+segmentation fault }{\kerning1\rtlch \ltrch\loch
+que solo recuerda parte de la vida de la hechicera @sweme vestida con ropaje blanco rasgado piel gris\'e1cea y venas blancas muy marcadas por todo su cuerpo, tiene atributo de movimiento incorp\'f3reo puede moverse a trav\'e9s de paredes u otros personajes, incluso posey\'e9ndolos.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\kerning1\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li720\ri0\lin720\rin0\fi0{\kerning1\rtlch \ltrch\loch
+\tab \'95\tab Sucios \'a1!, peque\'f1os!!!, malditos entes vacios!! Que hac\'e9is en mi reino de 42!!! Con voz carraspeante.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li720\ri0\lin720\rin0\fi0{\kerning1\rtlch \ltrch\loch
+\tab \'95\tab Pues llegareis hasta aqu\'ed no mas mas haya!!!!}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\kerning1\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\kerning1\rtlch \ltrch\loch
+Tirar 1d8 para suerte a resolver 2 pruebas de ciber o 3 de programaci\'f3n.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\kerning1\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\b\kerning1\hich\af6\dbch\af6\ab\rtlch \ltrch\loch\loch\f6
+OJO \'a1!!!!!}{\kerning1\rtlch \ltrch\loch
+Pueden utilizar conjuros para paralizarla y no hacer las pruebas pudiendo escapar con Joaqu\'edn descosido no reciben premio bonus de +3 en concentraci\'f3n, alternativa dej\'e1rsela viva al siguiente grupo que no salvara a Joaqu\'edn pero si recibe bonus, conjuro tela de ara\'f1a que la bloquee y se divide los por la mitad, salva Joaqu\'edn y recibe bonus.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\kerning1\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\kerning1\rtlch \ltrch\loch
+Una vez muerta Joaqu\'edn vuelve a su forma.}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li720\ri0\lin720\rin0\fi0{\kerning1\rtlch \ltrch\loch
+\tab \'95\tab \'a1!! Corred insensatos!!!! Huyamos de aqu\'ed!!!!!}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\kerning1\rtlch \ltrch\loch
+Sal\'eds por la puerta principal de los cl\'faster y os encontr\'e1is en el rellano del ascensor de la primera planta, os cre\'e9is a salvo por ahora, pero Joaqu\'edn os mira muy detenidamente y con voz seria os dice:}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\kerning1\rtlch \ltrch\loch
+}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\qc{\cf6\kerning1\afs40\rtlch \ltrch\loch\fs40
+CONTINUARA}
+\par \pard\plain \s0\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af4\langfe2052\dbch\af4\afs24\lang1081\loch\f4\fs24\lang1033\li709\ri0\lin709\rin0\fi0{\cf6\kerning1\afs40\rtlch \ltrch\loch\fs40
+}
+\par }
