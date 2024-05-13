@@ -12,26 +12,24 @@
 
 #include<stdio.h>
 
-#include <stdio.h>
-
 int main()
 {
     int dia, mes, ano;
     int minimo;
     int maximo;
 
-    minimo = 1;
-    maximo = 191;
+    minimo = 149;
+    maximo = 161;
     printf("Por favor, introduce la fecha (dd mm aaaa): ");
     scanf("%d %d %d", &dia, &mes, &ano);
 
-    int sum = (dia + mes + ano) % 100;
-    int code = (sum >= minimo && sum <= maximo) ? sum : -1;
+    int sum = (dia + mes + ano);
+     int result = 149 + (sum % 13);
 
-    if (code != -1) {
-        printf("Tu taquilla es %04d.\n", code);
+    if (result != -1) {
+        printf("Tu taquilla es %04d.\n", result);
     } else {
-        printf("La suma de la fecha no está en el rango permitido.\n");
+        printf("No Puedes pasar, todo lo que sabias hasta ahora esta equivocado.\n");
     }
 
     return 0;
